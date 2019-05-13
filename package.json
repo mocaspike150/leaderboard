@@ -1,0 +1,17 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "leaderboard",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocaspike150/leaderboard.git"
+  },
+  "keywords": [],
+  "author": "MOCA Spike 150",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "puppeteer": "^1.14.0"
+  }
+}
