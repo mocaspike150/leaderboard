@@ -1,5 +1,6 @@
-CMD=/usr/local/bin/node bin/leaderboard.js
-week01: 128445 72363 301632 523430 302045
+CMD=/usr/local/bin/node bin/fetch.js
+
+fetch: 128445 72363 301632 523430 302045
 
 128445:
 	$(CMD) week01 128445
