@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
-    "puppeteer": "^1.14.0"
+    "jsdom": "^15.1.0"
   }
 }
