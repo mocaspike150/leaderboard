@@ -2,7 +2,7 @@ const fs = require('fs');
 const puppeteer = require('puppeteer');
 
 const leaderboard = (week, id) => {
-  const base = `docs/${week}`;
+  const base = `data/${week}`;
 
   if(id) {
     const url = `https://www.strava.com/clubs/${id}`;
