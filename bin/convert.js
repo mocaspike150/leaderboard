@@ -3,7 +3,7 @@ const { JSDOM } = jsdom;
 const fs = require('fs');
 
 const convert = (week, id) => {
-  const base = `docs/${week}`;
+  const base = `data/${week}`;
   const input = `${base}/${id}.html`;
   const output = `${base}/${id}.json`;
 
