@@ -6,9 +6,8 @@ const convert = (id) => {
   const base = `data`;
   const input = `${base}/html/${id}.html`;
   const output = `${base}/json/${id}.json`;
-  const data = fs.readFileSync(input, 'utf8')
   
-  const dom = new JSDOM(data);
+  const dom = new JSDOM(fs.readFileSync(input, 'utf8'))
   const table = dom.window.document.querySelector('table');
   const html =  table.innerHTML;
   const text =  table.textContent;
