@@ -11,12 +11,9 @@
   "author": "MOCA Spike 150",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
     "d3": "^5.9.2",
-    "d3-node": "^2.1.0",
     "jsdom": "^15.1.0",
     "node-fetch": "^2.6.0",
-    "node-fetch-polyfill": "^2.0.6",
-    "puppeteer": "^1.16.0"
+    "puppeteer": "^1.17.0"
   }
 }

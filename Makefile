@@ -1,6 +1,11 @@
 NODE=/usr/local/bin/node
-all:
+update: build
 	git pull
+	git add data
+	git commit -m 'update by Makefile' | true
+	git push
+
+build:
 	$(NODE) bin/collect.js 72363
 	$(NODE) bin/convert.js 72363
 	$(NODE) bin/collect.js 128445
@@ -69,6 +74,4 @@ all:
 	$(NODE) bin/convert.js 523430
 	$(NODE) bin/collect.js 523602
 	$(NODE) bin/convert.js 523602
-	$(NODE) bin/total.js |tee data/leaderboard.json	git add data
-	git commit -m 'update by Makefile' | true
-	git push
+	$(NODE) bin/total.js |tee data/leaderboard.json

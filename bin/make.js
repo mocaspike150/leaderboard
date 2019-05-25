@@ -7,8 +7,13 @@ const error = (e) => {
 }
 
 let Makefile = `NODE=/usr/local/bin/node
-all:
+update: build
 	git pull
+	git add data
+	git commit -m 'update by Makefile' | true
+	git push
+
+build:
 `
 
 const make = (d) => {
@@ -19,10 +24,6 @@ const make = (d) => {
 `
   }
   Makefile += `	$(NODE) bin/total.js |tee data/leaderboard.json`
-  Makefile += `	git add data
-	git commit -m 'update by Makefile' | true
-	git push
-`
   fs.writeFile('Makefile', Makefile, (err) => { if (err) throw err; console.log(Makefile); })
 }
 
