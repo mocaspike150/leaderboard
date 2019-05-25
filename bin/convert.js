@@ -2,10 +2,10 @@ const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fs = require('fs');
 
-const convert = (week, id) => {
-  const base = `docs/${week}`;
-  const input = `${base}/${id}.html`;
-  const output = `${base}/${id}.json`;
+const convert = (id) => {
+  const base = `data`;
+  const input = `${base}/html/${id}.html`;
+  const output = `${base}/json/${id}.json`;
 
   JSDOM.fromFile(input, {}).then(dom => {
     const table = dom.window.document.querySelector('table');
@@ -44,4 +44,4 @@ const convert = (week, id) => {
   });
 };
 
-convert(process.argv[2], process.argv[3])
+convert(process.argv[2])
