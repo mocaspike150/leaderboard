@@ -7,7 +7,7 @@ let output = {}
 for (const file of files) {
   const fn = `${src}/${file}`
   const id = file.replace(/\.json/, '')
-  const data = JSON.parse(fs.readFileSync(fn))
+  const data = JSON.parse(fs.readFileSync(fn, 'utf8'))
   output[id] = data
 }
 console.log(JSON.stringify(output))
