@@ -10,4 +10,5 @@ for (const file of files) {
   const data = JSON.parse(fs.readFileSync(fn, 'utf8'))
   output[id] = data
 }
-console.log(JSON.stringify(output))
+
+fs.writeFile('data/leaderboard.json', JSON.stringify(output), (err) => { if (err) { throw err }; console.log(output); })
