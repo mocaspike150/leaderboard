@@ -83,7 +83,7 @@ convert: collect
 	git commit -m 'update json by Makefile' | true
 	git push
 total: convert
-	$(NODE) bin/total.js |tee data/leaderboard.json
+	$(NODE) bin/total.js 
 	git add data/leaderboard.json
 	git commit -m 'update total by Makefile' | true
 	git push

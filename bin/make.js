@@ -41,7 +41,7 @@ const make = (d) => {
 `
   Makefile += `total: convert
 `
-  Makefile += `	$(NODE) bin/total.js |tee data/leaderboard.json`
+  Makefile += `	$(NODE) bin/total.js `
   Makefile += `
 	git add data/leaderboard.json
 	git commit -m 'update total by Makefile' | true
