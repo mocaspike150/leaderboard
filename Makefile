@@ -1,6 +1,5 @@
 NODE=/usr/local/bin/node
 update: pull total 
-	git push
 
 pull:
 	git pull
@@ -43,6 +42,7 @@ collect:
 
 	git add data/html
 	git commit -m 'update html by Makefile' | true
+	git push
 convert: collect
 	$(NODE) bin/convert.js 72363
 	$(NODE) bin/convert.js 128445
@@ -81,7 +81,9 @@ convert: collect
 
 	git add data/json
 	git commit -m 'update json by Makefile' | true
+	git push
 total: convert
 	$(NODE) bin/total.js |tee data/leaderboard.json
 	git add data/leaderboard.json
 	git commit -m 'update total by Makefile' | true
+	git push

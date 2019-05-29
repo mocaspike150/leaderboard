@@ -8,7 +8,6 @@ const error = (e) => {
 
 let Makefile = `NODE=/usr/local/bin/node
 update: pull total 
-	git push
 
 pull:
 	git pull
@@ -25,6 +24,7 @@ const make = (d) => {
   Makefile += `
 	git add data/html
 	git commit -m 'update html by Makefile' | true
+	git push
 `
   Makefile += `convert: collect
 `
@@ -37,6 +37,7 @@ const make = (d) => {
   Makefile += `
 	git add data/json
 	git commit -m 'update json by Makefile' | true
+	git push
 `
   Makefile += `total: convert
 `
@@ -44,6 +45,7 @@ const make = (d) => {
   Makefile += `
 	git add data/leaderboard.json
 	git commit -m 'update total by Makefile' | true
+	git push
 `
 
   fs.writeFile('Makefile', Makefile, (err) => { if (err) throw err; console.log(Makefile); })
