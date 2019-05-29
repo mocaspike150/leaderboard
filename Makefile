@@ -5,7 +5,8 @@ update: pull build
 pull:
 	git pull
 
-build:
+build: collect convert total
+collect:
 	$(NODE) bin/collect.js 72363
 	$(NODE) bin/collect.js 128445
 	$(NODE) bin/collect.js 142275
@@ -43,6 +44,7 @@ build:
 
 	git add data/html
 	git commit -m 'update html by Makefile' | true
+convert:
 	$(NODE) bin/convert.js 72363
 	$(NODE) bin/convert.js 128445
 	$(NODE) bin/convert.js 142275
@@ -77,7 +79,10 @@ build:
 	$(NODE) bin/convert.js 519388
 	$(NODE) bin/convert.js 523430
 	$(NODE) bin/convert.js 523602
-	$(NODE) bin/total.js |tee data/leaderboard.json
+
 	git add data/json
-	git add data/leaderboard.json
 	git commit -m 'update json by Makefile' | true
+total:
+	$(NODE) bin/total.js |tee data/leaderboard.json
+	git add data/leaderboard.json
+	git commit -m 'update total by Makefile' | true

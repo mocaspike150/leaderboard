@@ -13,10 +13,12 @@ update: pull build
 pull:
 	git pull
 
-build:
+build: collect convert total
 `
 
 const make = (d) => {
+  Makefile += `collect:
+`
   for(const id in d) {
     Makefile += `	$(NODE) bin/collect.js ${id}
 `
@@ -25,18 +27,26 @@ const make = (d) => {
 	git add data/html
 	git commit -m 'update html by Makefile' | true
 `
+  Makefile += `convert:
+`
 
   for(const id in d) {
     Makefile += `	$(NODE) bin/convert.js ${id}
 `
   }
 
-  Makefile += `	$(NODE) bin/total.js |tee data/leaderboard.json`
   Makefile += `
 	git add data/json
-	git add data/leaderboard.json
 	git commit -m 'update json by Makefile' | true
 `
+  Makefile += `total:
+`
+  Makefile += `	$(NODE) bin/total.js |tee data/leaderboard.json`
+  Makefile += `
+	git add data/leaderboard.json
+	git commit -m 'update total by Makefile' | true
+`
+
   fs.writeFile('Makefile', Makefile, (err) => { if (err) throw err; console.log(Makefile); })
 }
 
