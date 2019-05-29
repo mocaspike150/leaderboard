@@ -7,7 +7,7 @@ const error = (e) => {
 }
 
 let Makefile = `NODE=/usr/local/bin/node
-update: build
+update: pull build 
 	git push
 
 pull:
