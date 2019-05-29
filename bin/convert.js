@@ -1,7 +1,6 @@
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fs = require('fs');
-const stringify = require("json-stringify-pretty-compact");
 
 const convert = (id) => {
   const base = `data`;
@@ -41,7 +40,7 @@ const convert = (id) => {
     leaderboard.push(tmp);
     c++;
   }
-  fs.writeFile(output, stringify(leaderboard), (err) => { if (err) throw err; console.log(output); })
+  fs.writeFile(output, JSON.stringify(leaderboard, null, 2), (err) => { if (err) throw err; console.log(output); })
 
 };
 

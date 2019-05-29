@@ -13,7 +13,6 @@
   "dependencies": {
     "d3": "^5.9.2",
     "jsdom": "^15.1.0",
-    "json-stringify-pretty-compact": "^2.0.0",
     "node-fetch": "^2.6.0",
     "puppeteer": "^1.17.0"
   }
