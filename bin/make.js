@@ -7,13 +7,12 @@ const error = (e) => {
 }
 
 let Makefile = `NODE=/usr/local/bin/node
-update: pull build 
+update: pull total 
 	git push
 
 pull:
 	git pull
 
-build: collect convert total
 `
 
 const make = (d) => {
@@ -27,7 +26,7 @@ const make = (d) => {
 	git add data/html
 	git commit -m 'update html by Makefile' | true
 `
-  Makefile += `convert:
+  Makefile += `convert: collect
 `
 
   for(const id in d) {
@@ -39,7 +38,7 @@ const make = (d) => {
 	git add data/json
 	git commit -m 'update json by Makefile' | true
 `
-  Makefile += `total:
+  Makefile += `total: convert
 `
   Makefile += `	$(NODE) bin/total.js |tee data/leaderboard.json`
   Makefile += `
