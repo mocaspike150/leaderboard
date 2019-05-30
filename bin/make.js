@@ -43,7 +43,9 @@ const make = (d) => {
 `
   Makefile += `	$(NODE) bin/total.js `
   Makefile += `
+	date > data/update_time.txt
 	git add data/leaderboard.json
+	git add data/update_time.txt
 	git commit -m 'update total by Makefile' | true
 	git push
 `
