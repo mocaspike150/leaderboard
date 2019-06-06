@@ -22,7 +22,7 @@ const make = (d) => {
 `
   }
   Makefile += `
-	git add data/html
+	git add data/collected_html
 	git commit -m 'collect html by Makefile' | true
 	git push
 `
@@ -34,6 +34,12 @@ const make = (d) => {
       Makefile += `	$(NODE) bin/latest.js ${id}
 `
   }
+
+  Makefile += `
+	git add data/html
+	git commit -m 'update latest html by Makefile' | true
+	git push
+`
 
   Makefile += `convert: latest
 `

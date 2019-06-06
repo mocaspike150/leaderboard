@@ -40,7 +40,7 @@ collect:
 	$(NODE) bin/collect.js 523430
 	$(NODE) bin/collect.js 523602
 
-	git add data/html
+	git add data/collected_html
 	git commit -m 'collect html by Makefile' | true
 	git push
 latest: collect
@@ -78,6 +78,10 @@ latest: collect
 	$(NODE) bin/latest.js 519388
 	$(NODE) bin/latest.js 523430
 	$(NODE) bin/latest.js 523602
+
+	git add data/html
+	git commit -m 'update latest html by Makefile' | true
+	git push
 convert: latest
 	$(NODE) bin/convert.js 72363
 	$(NODE) bin/convert.js 128445
