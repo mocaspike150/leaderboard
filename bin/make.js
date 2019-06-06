@@ -31,10 +31,8 @@ const make = (d) => {
 `
 
   for(const id in d) {
-    if(id != '204946') {
       Makefile += `	$(NODE) bin/latest.js ${id}
 `
-    }
   }
 
   Makefile += `convert: latest

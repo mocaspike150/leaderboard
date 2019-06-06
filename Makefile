@@ -56,6 +56,7 @@ latest: collect
 	$(NODE) bin/latest.js 187897
 	$(NODE) bin/latest.js 196102
 	$(NODE) bin/latest.js 197462
+	$(NODE) bin/latest.js 204946
 	$(NODE) bin/latest.js 229749
 	$(NODE) bin/latest.js 234023
 	$(NODE) bin/latest.js 236304
