@@ -41,9 +41,43 @@ collect:
 	$(NODE) bin/collect.js 523602
 
 	git add data/html
-	git commit -m 'update html by Makefile' | true
+	git commit -m 'collect html by Makefile' | true
 	git push
-convert: collect
+latest: collect
+	$(NODE) bin/latest.js 72363
+	$(NODE) bin/latest.js 128445
+	$(NODE) bin/latest.js 142275
+	$(NODE) bin/latest.js 147066
+	$(NODE) bin/latest.js 155681
+	$(NODE) bin/latest.js 157594
+	$(NODE) bin/latest.js 175314
+	$(NODE) bin/latest.js 176328
+	$(NODE) bin/latest.js 183643
+	$(NODE) bin/latest.js 187897
+	$(NODE) bin/latest.js 196102
+	$(NODE) bin/latest.js 197462
+	$(NODE) bin/latest.js 229749
+	$(NODE) bin/latest.js 234023
+	$(NODE) bin/latest.js 236304
+	$(NODE) bin/latest.js 241951
+	$(NODE) bin/latest.js 299365
+	$(NODE) bin/latest.js 301632
+	$(NODE) bin/latest.js 302045
+	$(NODE) bin/latest.js 327007
+	$(NODE) bin/latest.js 330129
+	$(NODE) bin/latest.js 438046
+	$(NODE) bin/latest.js 439808
+	$(NODE) bin/latest.js 452045
+	$(NODE) bin/latest.js 464836
+	$(NODE) bin/latest.js 479503
+	$(NODE) bin/latest.js 481356
+	$(NODE) bin/latest.js 484248
+	$(NODE) bin/latest.js 513442
+	$(NODE) bin/latest.js 516025
+	$(NODE) bin/latest.js 519388
+	$(NODE) bin/latest.js 523430
+	$(NODE) bin/latest.js 523602
+convert: latest
 	$(NODE) bin/convert.js 72363
 	$(NODE) bin/convert.js 128445
 	$(NODE) bin/convert.js 142275
