@@ -2,7 +2,7 @@ const fs = require('fs');
 const puppeteer = require('puppeteer');
 
 const collect = (id) => {
-  const base = `data/html`;
+  const base = `data/collected_html`;
 
   if(id) {
     const url = `https://www.strava.com/clubs/${id}`;
