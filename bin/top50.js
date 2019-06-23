@@ -63,6 +63,6 @@ const top50 = (weekid) => {
 }
 
 top50('05')
-//top50('06')
+top50('06')
 
 
