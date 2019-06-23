@@ -7,13 +7,13 @@ const weekdata = (leaderboard) => {
     for (let c of club){
       const mile = c[2]
       if(mile) {
-      let entry = {
+      let runner = {
         club_id : id,
         name : c[1],
         mile : (c[2] ? parseFloat(c[2])*0.621371 : 0),
         count : c[3]
       }
-      output.push(entry)
+      output.push(runner)
       }
     }
   }
@@ -51,9 +51,12 @@ const top50 = (weekid) => {
   for( let id of club_ids) {
     leaderboard[id] = all_leaderboard[id]
   }
-
-  let output = uniq(weekdata(leaderboard).sort(by_mile_and_name)).slice(0, 50)
-  fs.writeFile(`${path}/top50.json`, JSON.stringify(output, null, 2), (err) => { if (err) { throw err }; console.log(output); })
+  const data = uniq(weekdata(leaderboard).sort(by_mile_and_name)).slice(0, 50)
+  let csv = `"Club ID", "Runner", "Distance", "Runs"\n`
+  for(const runner of data) {
+    csv += `"${runner.club_id}","${runner.name}","${runner.mile}","${runner.count}"\n`
+  }
+  fs.writeFile(`${path}/top50.csv`, csv, (err) => { if (err) { throw err }; console.log(csv); })
 }
 
 top50('06')
