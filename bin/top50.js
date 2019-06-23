@@ -62,6 +62,7 @@ const top50 = (weekid) => {
   fs.writeFile(`${path}/top50.csv`, csv, (err) => { if (err) { throw err }; console.log(csv); })
 }
 
-top50('06')
+top50('05')
+//top50('06')
 
 
