@@ -51,9 +51,12 @@ const top50 = (weekid) => {
   for( let id of club_ids) {
     leaderboard[id] = all_leaderboard[id]
   }
-  const data = uniq(weekdata(leaderboard).sort(by_mile_and_name)).slice(0, 50)
+  const top50 = uniq(weekdata(leaderboard).sort(by_mile_and_name)).slice(0, 50)
+
+  fs.writeFile(`${path}/top50.json`, JSON.stringify(top50, null, 2), (err) => { if (err) { throw err }; console.log(top50); })
+
   let csv = `"Club ID", "Runner", "Distance", "Runs"\n`
-  for(const runner of data) {
+  for(const runner of top50) {
     csv += `"${runner.club_id}","${runner.name}","${runner.mile}","${runner.count}"\n`
   }
   fs.writeFile(`${path}/top50.csv`, csv, (err) => { if (err) { throw err }; console.log(csv); })
