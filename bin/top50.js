@@ -1,13 +1,4 @@
 const fs = require('fs')
-const path = `data/leaderboard/week06/`
-const club_ids = JSON.parse(fs.readFileSync(`${path}/club_ids.json`, 'utf8'))
-
-const all_leaderboard = JSON.parse(fs.readFileSync(`${path}/leaderboard.json`, 'utf8'))
-
-let leaderboard = {}
-for( let id of club_ids) {
-  leaderboard[id] = all_leaderboard[id]
-}
 
 const weekdata = (leaderboard) => {
   let output = [];
@@ -39,7 +30,6 @@ const by_mile_and_name =  (a, b) => {
   return b.name <= a.name ? 1 : -1
 }
 
-
 const uniq = (input) => {
   let previous = input[0]
   let output = [previous]
@@ -51,7 +41,21 @@ const uniq = (input) => {
   }
   return output
 }
-top50 = uniq(weekdata(leaderboard).sort(by_mile_and_name)).slice(0, 50)
 
-fs.writeFile(`${path}/top50.json`, JSON.stringify(top50, null, 2), (err) => { if (err) { throw err }; console.log(top50); })
+const top50 = (weekid) => {
+  const path = `data/leaderboard/week${weekid}/`
+  const club_ids = JSON.parse(fs.readFileSync(`${path}/club_ids.json`, 'utf8'))
+  const all_leaderboard = JSON.parse(fs.readFileSync(`${path}/leaderboard.json`, 'utf8'))
+
+  let leaderboard = {}
+  for( let id of club_ids) {
+    leaderboard[id] = all_leaderboard[id]
+  }
+
+  let output = uniq(weekdata(leaderboard).sort(by_mile_and_name)).slice(0, 50)
+  fs.writeFile(`${path}/top50.json`, JSON.stringify(output, null, 2), (err) => { if (err) { throw err }; console.log(output); })
+}
+
+top50('06')
+
 
