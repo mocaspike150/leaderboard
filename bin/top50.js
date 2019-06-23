@@ -43,9 +43,14 @@ const uniq = (input) => {
 }
 
 const top50 = (weekid) => {
-  const path = `data/leaderboard/week${weekid}/`
+  const path = `data/leaderboard/week${weekid}`
   const club_ids = JSON.parse(fs.readFileSync(`${path}/club_ids.json`, 'utf8'))
-  const all_leaderboard = JSON.parse(fs.readFileSync(`${path}/leaderboard.json`, 'utf8'))
+  const input = `${path}/leaderboard.json` 
+  if(! fs.existsSync(input) ) {
+    console.log(`${input} doesn't exist`)
+    return;
+  }
+  const all_leaderboard = JSON.parse(fs.readFileSync(input, 'utf8'))
 
   let leaderboard = {}
   for( let id of club_ids) {
@@ -53,15 +58,16 @@ const top50 = (weekid) => {
   }
   const top50 = uniq(weekdata(leaderboard).sort(by_mile_and_name)).slice(0, 50)
 
-  fs.writeFile(`${path}/top50.json`, JSON.stringify(top50, null, 2), (err) => { if (err) { throw err }; console.log(top50); })
+  fs.writeFile(`${path}/top50.json`, JSON.stringify(top50, null, 2), (err) => { if (err) { throw err }; console.log(`${path}/top50.json`) })
 
   let csv = `"Club ID", "Runner", "Distance", "Runs"\n`
   for(const runner of top50) {
     csv += `"${runner.club_id}","${runner.name}","${runner.mile}","${runner.count}"\n`
   }
-  fs.writeFile(`${path}/top50.csv`, csv, (err) => { if (err) { throw err }; console.log(csv); })
+  fs.writeFile(`${path}/top50.csv`, csv, (err) => { if (err) { throw err }; console.log(`${path}/top50.csv`) })
 }
 
+top50('04')
 top50('05')
 top50('06')
 
