@@ -1,9 +1,21 @@
 [
   {
+    "club_id": "484248",
+    "name": "Jack J.",
+    "mile": 131.2956923,
+    "count": "12"
+  },
+  {
     "club_id": "241951",
     "name": "David M.",
     "mile": 130.7985955,
     "count": "8"
+  },
+  {
+    "club_id": "484248",
+    "name": "Liping T.",
+    "mile": 128.3131115,
+    "count": "17"
   },
   {
     "club_id": "241951",
@@ -28,12 +40,6 @@
     "name": "Jian G.",
     "mile": 104.7010135,
     "count": "10"
-  },
-  {
-    "club_id": "484248",
-    "name": "Liping T.",
-    "mile": 103.0233118,
-    "count": "14"
   },
   {
     "club_id": "241951",
@@ -100,12 +106,6 @@
     "name": "C Z.",
     "mile": 67.9779874,
     "count": "2"
-  },
-  {
-    "club_id": "484248",
-    "name": "Jack J.",
-    "mile": 66.73524540000001,
-    "count": "9"
   },
   {
     "club_id": "187897",
@@ -259,6 +259,12 @@
   },
   {
     "club_id": "241951",
+    "name": "Adella L.",
+    "mile": 50.455325200000004,
+    "count": "6"
+  },
+  {
+    "club_id": "241951",
     "name": "Jay J.",
     "mile": 49.9582284,
     "count": "5"
@@ -291,12 +297,6 @@
     "club_id": "241951",
     "name": "Blues L.",
     "mile": 48.6533493,
-    "count": "5"
-  },
-  {
-    "club_id": "187897",
-    "name": "Jing Z.",
-    "mile": 48.5290751,
     "count": "5"
   }
 ]
