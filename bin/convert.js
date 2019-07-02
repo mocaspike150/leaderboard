@@ -19,11 +19,11 @@ const convert = (id) => {
     if(count > 0) {
       for (let i of [1, 2, 3, 4, 5, 6]) {
         if(count % 7 == i) {
-          data[i - 1].push(line);
+          data[i - 1].push(line.replace(/--/, 0));
         }
       }
       if(count %7 == 0) {
-        data[6].push(line);
+        data[6].push(line.replace(/--/, 0));
       }
     }
     count++;
