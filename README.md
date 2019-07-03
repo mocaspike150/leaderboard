@@ -1,4 +1,12 @@
 # leaderboard
 leaderboard data
 
-https://mocaspike150-strava-leaderboard.ontouchstart.now.sh
+
+### ChiRunners
+https://mocaspike150-strava-leaderboard.ontouchstart.now.sh/72363
+
+###  BURN
+https://mocaspike150-strava-leaderboard.ontouchstart.now.sh/128445
+
+### NewBee
+https://mocaspike150-strava-leaderboard.ontouchstart.now.sh/204946
