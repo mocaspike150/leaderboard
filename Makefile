@@ -1,4 +1,4 @@
-NODE=/usr/bin/env node
+NODE=/usr/local/bin/node
 update: pull total 
 
 pull:
