@@ -6,7 +6,7 @@ const error = (e) => {
   console.log(e);
 }
 
-let Makefile = `NODE=/usr/bin/env node
+let Makefile = `NODE=/usr/bin/node
 update: pull total 
 
 pull:
@@ -15,19 +15,19 @@ pull:
 `
 
 const make = (d) => {
-  Makefile += `strava:
+  Makefile += `collect:
 `
   for(const id in d) {
-    Makefile += `	$(NODE) bin/strava-leaderboard.js ${id}
+    Makefile += `	$(NODE) bin/collect.js ${id}
 `
   }
   Makefile += `
 	git add data/collected_html
-	git commit -m 'strava-leaderboard html by Makefile' | true
+	git commit -m 'collect html by Makefile' | true
 	git push
 `
 
-  Makefile += `latest: strava
+  Makefile += `latest: collect
 `
 
   for(const id in d) {
