@@ -4,46 +4,46 @@ update: pull total
 pull:
 	git pull
 
-collect:
-	$(NODE) bin/collect.js 72363
-	$(NODE) bin/collect.js 128445
-	$(NODE) bin/collect.js 142275
-	$(NODE) bin/collect.js 147066
-	$(NODE) bin/collect.js 155681
-	$(NODE) bin/collect.js 157594
-	$(NODE) bin/collect.js 175314
-	$(NODE) bin/collect.js 176328
-	$(NODE) bin/collect.js 183643
-	$(NODE) bin/collect.js 187897
-	$(NODE) bin/collect.js 196102
-	$(NODE) bin/collect.js 197462
-	$(NODE) bin/collect.js 204946
-	$(NODE) bin/collect.js 229749
-	$(NODE) bin/collect.js 234023
-	$(NODE) bin/collect.js 236304
-	$(NODE) bin/collect.js 241951
-	$(NODE) bin/collect.js 299365
-	$(NODE) bin/collect.js 301632
-	$(NODE) bin/collect.js 302045
-	$(NODE) bin/collect.js 327007
-	$(NODE) bin/collect.js 330129
-	$(NODE) bin/collect.js 438046
-	$(NODE) bin/collect.js 439808
-	$(NODE) bin/collect.js 452045
-	$(NODE) bin/collect.js 464836
-	$(NODE) bin/collect.js 479503
-	$(NODE) bin/collect.js 481356
-	$(NODE) bin/collect.js 484248
-	$(NODE) bin/collect.js 513442
-	$(NODE) bin/collect.js 516025
-	$(NODE) bin/collect.js 519388
-	$(NODE) bin/collect.js 523430
-	$(NODE) bin/collect.js 523602
+strava:
+	$(NODE) bin/strava-leaderboard.js 72363
+	$(NODE) bin/strava-leaderboard.js 128445
+	$(NODE) bin/strava-leaderboard.js 142275
+	$(NODE) bin/strava-leaderboard.js 147066
+	$(NODE) bin/strava-leaderboard.js 155681
+	$(NODE) bin/strava-leaderboard.js 157594
+	$(NODE) bin/strava-leaderboard.js 175314
+	$(NODE) bin/strava-leaderboard.js 176328
+	$(NODE) bin/strava-leaderboard.js 183643
+	$(NODE) bin/strava-leaderboard.js 187897
+	$(NODE) bin/strava-leaderboard.js 196102
+	$(NODE) bin/strava-leaderboard.js 197462
+	$(NODE) bin/strava-leaderboard.js 204946
+	$(NODE) bin/strava-leaderboard.js 229749
+	$(NODE) bin/strava-leaderboard.js 234023
+	$(NODE) bin/strava-leaderboard.js 236304
+	$(NODE) bin/strava-leaderboard.js 241951
+	$(NODE) bin/strava-leaderboard.js 299365
+	$(NODE) bin/strava-leaderboard.js 301632
+	$(NODE) bin/strava-leaderboard.js 302045
+	$(NODE) bin/strava-leaderboard.js 327007
+	$(NODE) bin/strava-leaderboard.js 330129
+	$(NODE) bin/strava-leaderboard.js 438046
+	$(NODE) bin/strava-leaderboard.js 439808
+	$(NODE) bin/strava-leaderboard.js 452045
+	$(NODE) bin/strava-leaderboard.js 464836
+	$(NODE) bin/strava-leaderboard.js 479503
+	$(NODE) bin/strava-leaderboard.js 481356
+	$(NODE) bin/strava-leaderboard.js 484248
+	$(NODE) bin/strava-leaderboard.js 513442
+	$(NODE) bin/strava-leaderboard.js 516025
+	$(NODE) bin/strava-leaderboard.js 519388
+	$(NODE) bin/strava-leaderboard.js 523430
+	$(NODE) bin/strava-leaderboard.js 523602
 
 	git add data/collected_html
-	git commit -m 'collect html by Makefile' | true
+	git commit -m 'strava-leaderboard html by Makefile' | true
 	git push
-latest: collect
+latest: strava
 	$(NODE) bin/latest.js 72363
 	$(NODE) bin/latest.js 128445
 	$(NODE) bin/latest.js 142275

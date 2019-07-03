@@ -15,19 +15,19 @@ pull:
 `
 
 const make = (d) => {
-  Makefile += `collect:
+  Makefile += `strava:
 `
   for(const id in d) {
-    Makefile += `	$(NODE) bin/collect.js ${id}
+    Makefile += `	$(NODE) bin/strava-leaderboard.js ${id}
 `
   }
   Makefile += `
 	git add data/collected_html
-	git commit -m 'collect html by Makefile' | true
+	git commit -m 'strava-leaderboard html by Makefile' | true
 	git push
 `
 
-  Makefile += `latest: collect
+  Makefile += `latest: strava
 `
 
   for(const id in d) {
