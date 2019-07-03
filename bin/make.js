@@ -6,7 +6,7 @@ const error = (e) => {
   console.log(e);
 }
 
-let Makefile = `NODE=/usr/local/bin/node
+let Makefile = `NODE=/usr/bin/env node
 update: pull total 
 
 pull:
