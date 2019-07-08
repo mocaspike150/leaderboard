@@ -1,5 +1,10 @@
 # leaderboard
 
+Pages to check:
+
+- https://www.mocaspike150.org/
+- https://www.mocaspike150.org/spike-relay/leaderboard/
+
 Leaderboard data automatically updated by scripts. See [Makefile](Makefile) for details.
 
 Following clubs need to be updated manually due to unstable leaderboard display on Strava website caused by large club size.
