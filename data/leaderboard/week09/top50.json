@@ -54,6 +54,12 @@
     "count": "9"
   },
   {
+    "club_id": "523430",
+    "name": "Samantha W.",
+    "mile": 81.21318969999999,
+    "count": "11"
+  },
+  {
     "club_id": "330129",
     "name": "Xinghua D.",
     "mile": 81.1510526,
@@ -94,12 +100,6 @@
     "name": "Apple G.",
     "mile": 70.214923,
     "count": "4"
-  },
-  {
-    "club_id": "523430",
-    "name": "Samantha W.",
-    "mile": 69.1585923,
-    "count": "10"
   },
   {
     "club_id": "72363",
