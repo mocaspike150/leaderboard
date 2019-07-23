@@ -30,6 +30,7 @@ collect:
 	$(NODE) bin/collect.js 438046
 	$(NODE) bin/collect.js 439808
 	$(NODE) bin/collect.js 452045
+	$(NODE) bin/collect.js 452667
 	$(NODE) bin/collect.js 464836
 	$(NODE) bin/collect.js 479503
 	$(NODE) bin/collect.js 481356
@@ -69,6 +70,7 @@ latest: collect
 	$(NODE) bin/latest.js 438046
 	$(NODE) bin/latest.js 439808
 	$(NODE) bin/latest.js 452045
+	$(NODE) bin/latest.js 452667
 	$(NODE) bin/latest.js 464836
 	$(NODE) bin/latest.js 479503
 	$(NODE) bin/latest.js 481356
@@ -108,6 +110,7 @@ convert: latest
 	$(NODE) bin/convert.js 438046
 	$(NODE) bin/convert.js 439808
 	$(NODE) bin/convert.js 452045
+	$(NODE) bin/convert.js 452667
 	$(NODE) bin/convert.js 464836
 	$(NODE) bin/convert.js 479503
 	$(NODE) bin/convert.js 481356
