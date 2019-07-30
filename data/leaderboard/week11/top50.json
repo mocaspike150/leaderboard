@@ -1,11 +1,5 @@
 [
   {
-    "club_id": "187897",
-    "name": "Yan H.",
-    "mile": 130.5500471,
-    "count": "15"
-  },
-  {
     "club_id": "439808",
     "name": "Samantha W.",
     "mile": 106.0058926,
@@ -58,6 +52,12 @@
     "name": "Jihao S.",
     "mile": 71.0227053,
     "count": "6"
+  },
+  {
+    "club_id": "187897",
+    "name": "Yan H.",
+    "mile": 70.214923,
+    "count": "15"
   },
   {
     "club_id": "197462",
