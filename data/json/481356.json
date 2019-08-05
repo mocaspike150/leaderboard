@@ -1,11 +1,29 @@
 [
   [
-    "There are no results.",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "1",
+    "Andrea P.",
+    "15.5 km",
+    "1",
+    "15.5 km",
+    "5:00 /km",
+    "91 m"
+  ],
+  [
+    "2",
+    "John B.",
+    "10.7 km",
+    "1",
+    "10.7 km",
+    "4:40 /km",
+    "72 m"
+  ],
+  [
+    "3",
+    "Tina Z.",
+    "5.1 km",
+    "1",
+    "5.1 km",
+    "7:22 /km",
+    "31 m"
   ]
 ]
