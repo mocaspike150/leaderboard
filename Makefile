@@ -134,3 +134,6 @@ total: convert
 
 top50:
 	$(NODE) bin/currentweek_top50.js
+	git add data/leaderboard
+	git commit -m 'update leaderboard top50 by Makefile' | true
+	git push
