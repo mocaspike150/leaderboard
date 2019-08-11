@@ -131,3 +131,6 @@ total: convert
 	git add data/update_time.txt
 	git commit -m 'update total by Makefile' | true
 	git push
+
+top50:
+	$(NODE) bin/currentweek_top50.js
