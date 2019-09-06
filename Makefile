@@ -1,4 +1,4 @@
-NODE=/usr/bin/node
+NODE=`which node`
 update: pull total 
 
 pull:
