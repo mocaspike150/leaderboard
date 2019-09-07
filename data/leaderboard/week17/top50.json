@@ -108,6 +108,12 @@
     "count": "5"
   },
   {
+    "club_id": "516025",
+    "name": "Xiaolin D.",
+    "mile": 45.60863140000001,
+    "count": "8"
+  },
+  {
     "club_id": "187897",
     "name": "Victor G.",
     "mile": 44.8629862,
@@ -232,12 +238,6 @@
     "name": "Elsa L.",
     "mile": 37.903631,
     "count": "6"
-  },
-  {
-    "club_id": "516025",
-    "name": "Xiaolin D.",
-    "mile": 37.7172197,
-    "count": "7"
   },
   {
     "club_id": "187897",
