@@ -6,6 +6,12 @@
     "count": "12"
   },
   {
+    "club_id": "481356",
+    "name": "Svenja E.",
+    "mile": 75.4344394,
+    "count": "3"
+  },
+  {
     "club_id": "330129",
     "name": "Jianping Z.",
     "mile": 71.6440763,
@@ -210,6 +216,12 @@
     "count": "5"
   },
   {
+    "club_id": "481356",
+    "name": "Ron  B.",
+    "mile": 39.3949214,
+    "count": "4"
+  },
+  {
     "club_id": "187897",
     "name": "John Z.",
     "mile": 39.3327843,
@@ -286,17 +298,5 @@
     "name": "Jack H.",
     "mile": 36.7851632,
     "count": "5"
-  },
-  {
-    "club_id": "516025",
-    "name": "郭 老.",
-    "mile": 36.660889,
-    "count": "5"
-  },
-  {
-    "club_id": "187897",
-    "name": "Donna L.",
-    "mile": 36.598751899999996,
-    "count": "4"
   }
 ]
