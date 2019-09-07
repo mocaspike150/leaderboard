@@ -216,6 +216,12 @@
     "count": "5"
   },
   {
+    "club_id": "481356",
+    "name": "Haisheng L.",
+    "mile": 38.7114133,
+    "count": "8"
+  },
+  {
     "club_id": "330129",
     "name": "Ximin L.",
     "mile": 38.2764536,
@@ -292,11 +298,5 @@
     "name": "月亮草 Helen Y.",
     "mile": 36.598751899999996,
     "count": "6"
-  },
-  {
-    "club_id": "481356",
-    "name": "Donna M.",
-    "mile": 36.1637922,
-    "count": "7"
   }
 ]
