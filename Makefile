@@ -1,5 +1,5 @@
 NODE=/usr/local/bin/node
-update: pull total 
+update: pull total top50
 
 pull:
 	git pull
