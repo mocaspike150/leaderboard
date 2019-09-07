@@ -84,6 +84,12 @@
     "count": "7"
   },
   {
+    "club_id": "481356",
+    "name": "Simon O.",
+    "mile": 50.1446397,
+    "count": "8"
+  },
+  {
     "club_id": "330129",
     "name": "JiaLin C.",
     "mile": 49.461131599999995,
@@ -105,12 +111,6 @@
     "club_id": "516025",
     "name": "Jerry S.",
     "mile": 47.6591557,
-    "count": "7"
-  },
-  {
-    "club_id": "481356",
-    "name": "Simon O.",
-    "mile": 46.4164137,
     "count": "7"
   },
   {
