@@ -60,6 +60,12 @@
     "count": "5"
   },
   {
+    "club_id": "516025",
+    "name": "Amos L.",
+    "mile": 44.117341,
+    "count": "11"
+  },
+  {
     "club_id": "330129",
     "name": "王功翠 J.",
     "mile": 43.1852845,
@@ -82,12 +88,6 @@
     "name": "Tina Y.",
     "mile": 40.4512521,
     "count": "7"
-  },
-  {
-    "club_id": "516025",
-    "name": "Amos L.",
-    "mile": 39.4570585,
-    "count": "9"
   },
   {
     "club_id": "516025",
@@ -180,12 +180,6 @@
     "count": "3"
   },
   {
-    "club_id": "481356",
-    "name": "Haisheng L.",
-    "mile": 31.8141952,
-    "count": "7"
-  },
-  {
     "club_id": "330129",
     "name": "xiangfei z.",
     "mile": 30.260767700000002,
@@ -244,6 +238,12 @@
     "name": "Rong J.",
     "mile": 28.0238321,
     "count": "4"
+  },
+  {
+    "club_id": "481356",
+    "name": "Haisheng L.",
+    "mile": 27.899557899999998,
+    "count": "5"
   },
   {
     "club_id": "516025",
