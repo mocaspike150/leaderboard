@@ -102,6 +102,12 @@
     "count": "7"
   },
   {
+    "club_id": "330129",
+    "name": "Li P.",
+    "mile": 56.9175836,
+    "count": "12"
+  },
+  {
     "club_id": "187897",
     "name": "Tony X.",
     "mile": 56.1098013,
@@ -126,15 +132,15 @@
     "count": "6"
   },
   {
-    "club_id": "330129",
-    "name": "Li P.",
-    "mile": 55.364156099999995,
-    "count": "10"
-  },
-  {
     "club_id": "516025",
     "name": "Jerry S.",
     "mile": 55.1777448,
+    "count": "9"
+  },
+  {
+    "club_id": "481356",
+    "name": "Simon O.",
+    "mile": 55.115607700000005,
     "count": "9"
   },
   {
@@ -256,12 +262,6 @@
     "name": "Nathan L.",
     "mile": 50.1446397,
     "count": "7"
-  },
-  {
-    "club_id": "481356",
-    "name": "Simon O.",
-    "mile": 50.1446397,
-    "count": "8"
   },
   {
     "club_id": "187897",
