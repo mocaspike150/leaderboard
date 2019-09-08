@@ -240,12 +240,6 @@
     "count": "4"
   },
   {
-    "club_id": "481356",
-    "name": "Donna M.",
-    "mile": 39.3949214,
-    "count": "8"
-  },
-  {
     "club_id": "187897",
     "name": "John Z.",
     "mile": 39.3327843,
@@ -297,6 +291,12 @@
     "club_id": "187897",
     "name": "James G.",
     "mile": 37.3443971,
+    "count": "4"
+  },
+  {
+    "club_id": "330129",
+    "name": "Zheng Z.",
+    "mile": 37.2201229,
     "count": "4"
   }
 ]
