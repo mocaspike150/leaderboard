@@ -91,6 +91,12 @@
   },
   {
     "club_id": "481356",
+    "name": "Nathan L.",
+    "mile": 50.1446397,
+    "count": "7"
+  },
+  {
+    "club_id": "481356",
     "name": "Simon O.",
     "mile": 50.1446397,
     "count": "8"
@@ -190,12 +196,6 @@
     "name": "Dhanabalan T.",
     "mile": 42.8124619,
     "count": "4"
-  },
-  {
-    "club_id": "481356",
-    "name": "Nathan L.",
-    "mile": 42.439639299999996,
-    "count": "6"
   },
   {
     "club_id": "330129",
