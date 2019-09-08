@@ -19,6 +19,12 @@
   },
   {
     "club_id": "481356",
+    "name": "Tina Y.",
+    "mile": 76.1800846,
+    "count": "11"
+  },
+  {
+    "club_id": "481356",
     "name": "Svenja E.",
     "mile": 75.4344394,
     "count": "3"
@@ -34,12 +40,6 @@
     "name": "Howard G.",
     "mile": 71.70621340000001,
     "count": "6"
-  },
-  {
-    "club_id": "481356",
-    "name": "Tina Y.",
-    "mile": 71.6440763,
-    "count": "10"
   },
   {
     "club_id": "330129",
