@@ -69,7 +69,7 @@ const top50 = (weekid) => {
 
 
 const today = new Date()
-const start = new Date('2019-05-13T04:00:00')
+const start = new Date('2019-05-13T00:00:00')
 const weeks_since_start = Math.floor((today - start) / (3600 * 1000 * 24 * 7)) + 1
 const weekid = (weeks_since_start < 10) ? `0${weeks_since_start}` : `${weeks_since_start}`
 
