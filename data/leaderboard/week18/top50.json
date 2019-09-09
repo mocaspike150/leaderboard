@@ -48,6 +48,12 @@
     "count": "1"
   },
   {
+    "club_id": "234023",
+    "name": "Yimei H.",
+    "mile": 5.9651616,
+    "count": "1"
+  },
+  {
     "club_id": "197462",
     "name": "Hong T.",
     "mile": 5.7787503000000005,
@@ -93,6 +99,18 @@
     "club_id": "197462",
     "name": "Julie h.",
     "mile": 3.2311292000000003,
+    "count": "1"
+  },
+  {
+    "club_id": "479503",
+    "name": "Amy P.",
+    "mile": 2.1126614,
+    "count": "1"
+  },
+  {
+    "club_id": "479503",
+    "name": "Lei W.",
+    "mile": 1.9883872,
     "count": "1"
   },
   {
