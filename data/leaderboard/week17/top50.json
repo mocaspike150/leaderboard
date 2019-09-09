@@ -42,6 +42,12 @@
     "count": "6"
   },
   {
+    "club_id": "187897",
+    "name": "JL w.",
+    "mile": 70.214923,
+    "count": "8"
+  },
+  {
     "club_id": "330129",
     "name": "Long-Long G.",
     "mile": 70.0906488,
@@ -208,12 +214,6 @@
     "name": "Wayne S.",
     "mile": 52.2573011,
     "count": "7"
-  },
-  {
-    "club_id": "187897",
-    "name": "JL w.",
-    "mile": 51.698067200000004,
-    "count": "6"
   },
   {
     "club_id": "516025",
