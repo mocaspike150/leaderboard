@@ -67,6 +67,12 @@
   },
   {
     "club_id": "236304",
+    "name": "Richard P.",
+    "mile": 5.592339,
+    "count": "1"
+  },
+  {
+    "club_id": "236304",
     "name": "Emma Z.",
     "mile": 5.1573793000000006,
     "count": "1"
@@ -99,6 +105,12 @@
     "club_id": "197462",
     "name": "Julie h.",
     "mile": 3.2311292000000003,
+    "count": "1"
+  },
+  {
+    "club_id": "236304",
+    "name": "Sheldon F.",
+    "mile": 2.9825808,
     "count": "1"
   },
   {
