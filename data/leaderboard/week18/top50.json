@@ -6,6 +6,12 @@
     "count": "2"
   },
   {
+    "club_id": "236304",
+    "name": "乾坤 陈.",
+    "mile": 14.4779443,
+    "count": "1"
+  },
+  {
     "club_id": "197462",
     "name": "Zunxuan Digger C.",
     "mile": 13.7322991,
@@ -116,12 +122,6 @@
   {
     "club_id": "234023",
     "name": "Mingliang G.",
-    "mile": 6.5243955,
-    "count": "1"
-  },
-  {
-    "club_id": "197462",
-    "name": "光良（Gary） 刘.",
     "mile": 6.5243955,
     "count": "1"
   },
@@ -264,12 +264,6 @@
     "count": "1"
   },
   {
-    "club_id": "197462",
-    "name": "Fei X.",
-    "mile": 4.970968,
-    "count": "1"
-  },
-  {
     "club_id": "479503",
     "name": "Fen Z.",
     "mile": 4.970968,
@@ -298,5 +292,11 @@
     "name": "Xiaofei L.",
     "mile": 4.7224196,
     "count": "1"
+  },
+  {
+    "club_id": "479503",
+    "name": "Lei W.",
+    "mile": 4.1010485999999995,
+    "count": "2"
   }
 ]
