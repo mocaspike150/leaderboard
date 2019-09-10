@@ -12,6 +12,12 @@
     "count": "2"
   },
   {
+    "club_id": "236304",
+    "name": "乾坤 陈.",
+    "mile": 14.4779443,
+    "count": "1"
+  },
+  {
     "club_id": "197462",
     "name": "Zunxuan Digger C.",
     "mile": 13.7322991,
@@ -30,15 +36,21 @@
     "count": "1"
   },
   {
+    "club_id": "197462",
+    "name": "Jenny Z.",
+    "mile": 11.9303232,
+    "count": "2"
+  },
+  {
+    "club_id": "234023",
+    "name": "Jing Z.",
+    "mile": 10.1283473,
+    "count": "2"
+  },
+  {
     "club_id": "234023",
     "name": "Connie C.",
     "mile": 10.004073100000001,
-    "count": "1"
-  },
-  {
-    "club_id": "197462",
-    "name": "Jenny Z.",
-    "mile": 9.258427900000001,
     "count": "1"
   },
   {
@@ -120,6 +132,12 @@
     "count": "1"
   },
   {
+    "club_id": "197462",
+    "name": "光良（Gary） 刘.",
+    "mile": 6.5243955,
+    "count": "1"
+  },
+  {
     "club_id": "236304",
     "name": "Scarlet  Z.",
     "mile": 6.4622584000000005,
@@ -153,6 +171,12 @@
     "club_id": "234023",
     "name": "James N.",
     "mile": 6.21371,
+    "count": "1"
+  },
+  {
+    "club_id": "234023",
+    "name": "Jessie Z.",
+    "mile": 6.151572900000001,
     "count": "1"
   },
   {
@@ -258,6 +282,12 @@
     "count": "1"
   },
   {
+    "club_id": "197462",
+    "name": "Fei X.",
+    "mile": 4.970968,
+    "count": "1"
+  },
+  {
     "club_id": "479503",
     "name": "Fen Z.",
     "mile": 4.970968,
@@ -267,36 +297,6 @@
     "club_id": "234023",
     "name": "Guanyu W.",
     "mile": 4.970968,
-    "count": "1"
-  },
-  {
-    "club_id": "234023",
-    "name": "Sophie Z.",
-    "mile": 4.970968,
-    "count": "1"
-  },
-  {
-    "club_id": "234023",
-    "name": "chunshi z.",
-    "mile": 4.8466938,
-    "count": "1"
-  },
-  {
-    "club_id": "234023",
-    "name": "Xiaofei L.",
-    "mile": 4.7224196,
-    "count": "1"
-  },
-  {
-    "club_id": "479503",
-    "name": "Lei W.",
-    "mile": 4.1010485999999995,
-    "count": "2"
-  },
-  {
-    "club_id": "197462",
-    "name": "Yingxia L.",
-    "mile": 4.1010485999999995,
     "count": "1"
   }
 ]
