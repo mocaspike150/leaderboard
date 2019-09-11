@@ -54,6 +54,12 @@
     "count": "3"
   },
   {
+    "club_id": "197462",
+    "name": "光良（Gary） 刘.",
+    "mile": 19.0760897,
+    "count": "2"
+  },
+  {
     "club_id": "234023",
     "name": "Yimei H.",
     "mile": 18.3925816,
@@ -292,11 +298,5 @@
     "name": "Fan W.",
     "mile": 9.941936,
     "count": "1"
-  },
-  {
-    "club_id": "197462",
-    "name": "xiangfei z.",
-    "mile": 9.941936,
-    "count": "2"
   }
 ]
