@@ -138,6 +138,12 @@
     "count": "2"
   },
   {
+    "club_id": "197462",
+    "name": "shuliang Z.",
+    "mile": 14.6643556,
+    "count": "2"
+  },
+  {
     "club_id": "236304",
     "name": "乾坤 陈.",
     "mile": 14.4779443,
@@ -292,11 +298,5 @@
     "name": "Jing Z.",
     "mile": 10.1283473,
     "count": "2"
-  },
-  {
-    "club_id": "197462",
-    "name": "Shaoming Q.",
-    "mile": 10.004073100000001,
-    "count": "1"
   }
 ]
