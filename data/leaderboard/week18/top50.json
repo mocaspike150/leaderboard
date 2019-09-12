@@ -276,6 +276,12 @@
     "count": "3"
   },
   {
+    "club_id": "234023",
+    "name": "Haiyan X.",
+    "mile": 15.0371782,
+    "count": "2"
+  },
+  {
     "club_id": "236304",
     "name": "John L.",
     "mile": 15.0371782,
@@ -292,11 +298,5 @@
     "name": "Sophie Z.",
     "mile": 14.6643556,
     "count": "3"
-  },
-  {
-    "club_id": "197462",
-    "name": "shuliang Z.",
-    "mile": 14.6643556,
-    "count": "2"
   }
 ]
