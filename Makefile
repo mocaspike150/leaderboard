@@ -130,6 +130,7 @@ total: convert
 	$(NODE) bin/current_miles.js > data/current_miles.txt
 	git add data/leaderboard.json
 	git add data/update_time.txt
+	git add data/current_miles.txt
 	git commit -m 'update total by Makefile' | true
 	git push
 

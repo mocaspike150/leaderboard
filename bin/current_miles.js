@@ -1,4 +1,5 @@
 global.fetch = require('node-fetch')
+const fs = require('fs')
 const api = 'https://www.mocaspike150.org/api/relay/week.json'
 const start = new Date('2019-05-13T04:00:00')
 const now = new Date()
@@ -16,17 +17,12 @@ fetch(api).then(res => res.text())
        current_miles += mile
      }
      const teams = data[weeks_since_start+1].teams.map(d=>d.id)
-     fetch('https://raw.githubusercontent.com/mocaspike150/leaderboard/master/data/leaderboard.json')
-       .then(res => res.text())
-       .then(json => {
-          const data = JSON.parse(json)
-          for(const id of teams) {
-            const km = data[id].map( d => parseFloat(d[2]) * 0.621371)
-            const miles = km.reduce((x, y) => (x + y)) 
-            current_miles += miles
-          }
-          console.log(parseInt(current_miles))
-       })
-       .catch( err => { console.log(err) })
+     const leaderboard = JSON.parse(fs.readFileSync('data/leaderboard.json', 'utf8'))
+     for(const id of teams) {
+       const km = leaderboard[id].map( d => parseFloat(d[2]) * 0.621371)
+       const miles = km.reduce((x, y) => (x + y)) 
+       current_miles += miles
+     }
+     console.log(parseInt(current_miles))
   })
   .catch( err => { console.log(err) })
