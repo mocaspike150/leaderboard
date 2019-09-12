@@ -216,6 +216,12 @@
     "count": "8"
   },
   {
+    "club_id": "479503",
+    "name": "Lei W.",
+    "mile": 20.1324204,
+    "count": "9"
+  },
+  {
     "club_id": "234023",
     "name": "Jingning W.",
     "mile": 19.8217349,
@@ -250,12 +256,6 @@
     "name": "Jessie Z.",
     "mile": 18.3925816,
     "count": "3"
-  },
-  {
-    "club_id": "479503",
-    "name": "Lei W.",
-    "mile": 18.3304445,
-    "count": "8"
   },
   {
     "club_id": "234023",
