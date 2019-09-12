@@ -127,6 +127,7 @@ convert: latest
 total: convert
 	$(NODE) bin/total.js 
 	date > data/update_time.txt
+	$(NODE) bin/current_miles.js > data/current_miles.txt
 	git add data/leaderboard.json
 	git add data/update_time.txt
 	git commit -m 'update total by Makefile' | true
