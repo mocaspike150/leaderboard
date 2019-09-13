@@ -25,6 +25,12 @@
   },
   {
     "club_id": "234023",
+    "name": "Jing Z.",
+    "mile": 46.1057282,
+    "count": "6"
+  },
+  {
+    "club_id": "234023",
     "name": "Lance P.",
     "mile": 44.1794781,
     "count": "5"
@@ -45,12 +51,6 @@
     "club_id": "234023",
     "name": "Kun S.",
     "mile": 40.016292400000005,
-    "count": "5"
-  },
-  {
-    "club_id": "234023",
-    "name": "Jing Z.",
-    "mile": 39.4570585,
     "count": "5"
   },
   {
