@@ -18,6 +18,12 @@
     "count": "7"
   },
   {
+    "club_id": "234023",
+    "name": "Yimei H.",
+    "mile": 50.703873599999994,
+    "count": "5"
+  },
+  {
     "club_id": "236304",
     "name": "Henry (He) H.",
     "mile": 46.4785508,
@@ -34,12 +40,6 @@
     "name": "Lance P.",
     "mile": 44.1794781,
     "count": "5"
-  },
-  {
-    "club_id": "234023",
-    "name": "Yimei H.",
-    "mile": 42.501776400000004,
-    "count": "4"
   },
   {
     "club_id": "234023",
