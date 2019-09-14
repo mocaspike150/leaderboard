@@ -151,6 +151,12 @@
   },
   {
     "club_id": "236304",
+    "name": "Annie C.",
+    "mile": 43.558107099999994,
+    "count": "4"
+  },
+  {
+    "club_id": "236304",
     "name": "Qingfeng H.",
     "mile": 43.309558700000004,
     "count": "4"
@@ -292,11 +298,5 @@
     "name": "Xiao H.",
     "mile": 32.435566200000004,
     "count": "4"
-  },
-  {
-    "club_id": "234023",
-    "name": "Mingliang G.",
-    "mile": 32.2491549,
-    "count": "5"
   }
 ]
