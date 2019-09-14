@@ -2,8 +2,8 @@
   {
     "club_id": "234023",
     "name": "Jun Y.",
-    "mile": 89.97452080000001,
-    "count": "14"
+    "mile": 90.96871440000001,
+    "count": "15"
   },
   {
     "club_id": "234023",
@@ -54,6 +54,12 @@
     "count": "8"
   },
   {
+    "club_id": "236304",
+    "name": "Henry (He) H.",
+    "mile": 58.7816966,
+    "count": "6"
+  },
+  {
     "club_id": "234023",
     "name": "Qing D.",
     "mile": 56.9797207,
@@ -64,12 +70,6 @@
     "name": "Guanyu W.",
     "mile": 55.9855271,
     "count": "6"
-  },
-  {
-    "club_id": "236304",
-    "name": "Henry (He) H.",
-    "mile": 53.6243173,
-    "count": "5"
   },
   {
     "club_id": "234023",
