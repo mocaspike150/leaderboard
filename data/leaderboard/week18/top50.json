@@ -144,6 +144,12 @@
     "count": "5"
   },
   {
+    "club_id": "479503",
+    "name": "Nadia L.",
+    "mile": 44.490163599999995,
+    "count": "12"
+  },
+  {
     "club_id": "236304",
     "name": "Shen X.",
     "mile": 44.117341,
@@ -166,12 +172,6 @@
     "name": "John L.",
     "mile": 43.1852845,
     "count": "5"
-  },
-  {
-    "club_id": "479503",
-    "name": "Nadia L.",
-    "mile": 43.0610103,
-    "count": "11"
   },
   {
     "club_id": "234023",
