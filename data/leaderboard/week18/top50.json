@@ -264,6 +264,12 @@
     "count": "5"
   },
   {
+    "club_id": "197462",
+    "name": "Jenny Z.",
+    "mile": 44.0552039,
+    "count": "16"
+  },
+  {
     "club_id": "236304",
     "name": "Annie C.",
     "mile": 43.558107099999994,
@@ -292,11 +298,5 @@
     "name": "helen c.",
     "mile": 42.6881877,
     "count": "3"
-  },
-  {
-    "club_id": "197462",
-    "name": "Jenny Z.",
-    "mile": 42.3775022,
-    "count": "15"
   }
 ]
