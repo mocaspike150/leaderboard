@@ -192,6 +192,12 @@
     "count": "10"
   },
   {
+    "club_id": "234023",
+    "name": "Yiyong S.",
+    "mile": 41.4454457,
+    "count": "6"
+  },
+  {
     "club_id": "197462",
     "name": "Shaoming Q.",
     "mile": 40.5133892,
@@ -220,12 +226,6 @@
     "name": "Jubao Z.",
     "mile": 38.8356875,
     "count": "4"
-  },
-  {
-    "club_id": "234023",
-    "name": "Yiyong S.",
-    "mile": 38.4628649,
-    "count": "5"
   },
   {
     "club_id": "479503",
