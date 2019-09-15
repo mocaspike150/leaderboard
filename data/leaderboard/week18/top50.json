@@ -49,6 +49,12 @@
   },
   {
     "club_id": "234023",
+    "name": "Yueping X.",
+    "mile": 67.6673019,
+    "count": "10"
+  },
+  {
+    "club_id": "234023",
     "name": "Xianbao H.",
     "mile": 65.61677759999999,
     "count": "7"
@@ -70,12 +76,6 @@
     "name": "Melissa Q.",
     "mile": 62.509922599999996,
     "count": "15"
-  },
-  {
-    "club_id": "234023",
-    "name": "Yueping X.",
-    "mile": 62.0128258,
-    "count": "9"
   },
   {
     "club_id": "234023",
