@@ -1,11 +1,29 @@
 [
   [
-    "There are no results.",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "1",
+    "Rocky L.",
+    "11.0 km",
+    "1",
+    "11.0 km",
+    "6:03 /km",
+    "88 m"
+  ],
+  [
+    "2",
+    "Kevin T.",
+    "10.1 km",
+    "1",
+    "10.1 km",
+    "5:52 /km",
+    "13 m"
+  ],
+  [
+    "3",
+    "King R.",
+    "7.0 km",
+    "1",
+    "7.0 km",
+    "6:23 /km",
+    "22 m"
   ]
 ]
