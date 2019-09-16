@@ -29,9 +29,11 @@ fetch(api).then(res => res.text())
        }
      }
      team_ranking = Object.keys(current_miles).map((k) => [k, name[k], current_miles[k]]).sort((x,y) => (x[2] < y[2] ? 1 : -1))
-     console.log(`"ID","Name","Total miles"`)
+     console.log(`"Rank","ID","Name","Total miles"`)
+     let rank = 1
      for(const team of team_ranking) {
-        console.log(`"${team[0]}","${team[1]}",${team[2]}`)
+        console.log(`${rank},"${team[0]}","${team[1]}",${team[2]}`)
+        rank++;
      }
   })
 
