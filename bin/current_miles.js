@@ -19,9 +19,11 @@ fetch(api).then(res => res.text())
      const teams = data[weeks_since_start+1].teams.map(d=>d.id)
      const leaderboard = JSON.parse(fs.readFileSync('data/leaderboard.json', 'utf8'))
      for(const id of teams) {
-       const km = leaderboard[id].map( d => parseFloat(d[2]) * 0.621371)
-       const miles = km.reduce((x, y) => (x + y)) 
-       current_miles += miles
+       if(leaderboard[id].length > 0){
+         const km = leaderboard[id].map( d => parseFloat(d[2]) * 0.621371)
+         const miles = km.reduce((x, y) => (x + y)) 
+         current_miles += miles
+       }
      }
      console.log(parseInt(current_miles))
   })
