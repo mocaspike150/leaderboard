@@ -78,6 +78,12 @@
     "count": "1"
   },
   {
+    "club_id": "452045",
+    "name": "Jun J.",
+    "mile": 8.015685900000001,
+    "count": "1"
+  },
+  {
     "club_id": "299365",
     "name": "Huibin Z.",
     "mile": 7.9535488,
@@ -104,6 +110,12 @@
   {
     "club_id": "157594",
     "name": "Michelle M.",
+    "mile": 7.4564520000000005,
+    "count": "1"
+  },
+  {
+    "club_id": "157594",
+    "name": "Yuqi F.",
     "mile": 7.4564520000000005,
     "count": "1"
   },
@@ -159,6 +171,12 @@
     "club_id": "157594",
     "name": "Mei X.",
     "mile": 6.9593552,
+    "count": "1"
+  },
+  {
+    "club_id": "157594",
+    "name": "John D.",
+    "mile": 6.8972181,
     "count": "1"
   },
   {
@@ -222,6 +240,12 @@
     "count": "1"
   },
   {
+    "club_id": "157594",
+    "name": "Guangzhen X.",
+    "mile": 6.151572900000001,
+    "count": "1"
+  },
+  {
     "club_id": "452045",
     "name": "Julie Q.",
     "mile": 6.151572900000001,
@@ -246,6 +270,18 @@
     "count": "1"
   },
   {
+    "club_id": "157594",
+    "name": "Viona X.",
+    "mile": 5.9651616,
+    "count": "1"
+  },
+  {
+    "club_id": "157594",
+    "name": "Yong Z.",
+    "mile": 5.9651616,
+    "count": "1"
+  },
+  {
     "club_id": "464836",
     "name": "Cai Z.",
     "mile": 5.6544761,
@@ -261,42 +297,6 @@
     "club_id": "157594",
     "name": "Li Z.",
     "mile": 5.592339,
-    "count": "1"
-  },
-  {
-    "club_id": "299365",
-    "name": "Yuanyuan W.",
-    "mile": 5.4059276999999994,
-    "count": "1"
-  },
-  {
-    "club_id": "464836",
-    "name": "Edison S.",
-    "mile": 5.2816535,
-    "count": "1"
-  },
-  {
-    "club_id": "157594",
-    "name": "yi d.",
-    "mile": 5.2195164,
-    "count": "1"
-  },
-  {
-    "club_id": "157594",
-    "name": "Shengyu  F.",
-    "mile": 5.1573793000000006,
-    "count": "1"
-  },
-  {
-    "club_id": "299365",
-    "name": "Zhen Z.",
-    "mile": 5.1573793000000006,
-    "count": "1"
-  },
-  {
-    "club_id": "464836",
-    "name": "Elsa L.",
-    "mile": 5.0331051,
     "count": "1"
   }
 ]
