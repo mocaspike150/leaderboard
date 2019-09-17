@@ -43,6 +43,12 @@
   },
   {
     "club_id": "157594",
+    "name": "May L.",
+    "mile": 10.004073100000001,
+    "count": "1"
+  },
+  {
+    "club_id": "157594",
     "name": "Sophia L.",
     "mile": 10.004073100000001,
     "count": "1"
@@ -292,11 +298,5 @@
     "name": "Guoguang W.",
     "mile": 5.592339,
     "count": "2"
-  },
-  {
-    "club_id": "157594",
-    "name": "Li Z.",
-    "mile": 5.592339,
-    "count": "1"
   }
 ]
