@@ -13,12 +13,6 @@
   },
   {
     "club_id": "464836",
-    "name": "Jun Z.",
-    "mile": 25.1033884,
-    "count": "2"
-  },
-  {
-    "club_id": "464836",
     "name": "King R.",
     "mile": 17.398388,
     "count": "2"
@@ -42,6 +36,12 @@
     "count": "2"
   },
   {
+    "club_id": "464836",
+    "name": "Jun Z.",
+    "mile": 13.608024899999998,
+    "count": "1"
+  },
+  {
     "club_id": "299365",
     "name": "Yongcong D.",
     "mile": 12.4895571,
@@ -51,12 +51,6 @@
     "club_id": "157594",
     "name": "Guanyu W.",
     "mile": 11.992460300000001,
-    "count": "2"
-  },
-  {
-    "club_id": "464836",
-    "name": "Yi H.",
-    "mile": 11.806049,
     "count": "2"
   },
   {
@@ -114,12 +108,6 @@
     "count": "1"
   },
   {
-    "club_id": "464836",
-    "name": "Cathy W.",
-    "mile": 8.7613311,
-    "count": "1"
-  },
-  {
     "club_id": "157594",
     "name": "Junfeng Z.",
     "mile": 8.7613311,
@@ -129,18 +117,6 @@
     "club_id": "299365",
     "name": "Wuming G.",
     "mile": 8.1399601,
-    "count": "1"
-  },
-  {
-    "club_id": "464836",
-    "name": "Joy 乔.",
-    "mile": 8.077823,
-    "count": "1"
-  },
-  {
-    "club_id": "464836",
-    "name": "jinglin f.",
-    "mile": 8.077823,
     "count": "1"
   },
   {
@@ -270,12 +246,6 @@
     "count": "1"
   },
   {
-    "club_id": "464836",
-    "name": "Eric C.",
-    "mile": 6.337984199999999,
-    "count": "1"
-  },
-  {
     "club_id": "452045",
     "name": "Bill C.",
     "mile": 6.2758471,
@@ -297,6 +267,36 @@
     "club_id": "464836",
     "name": "Cindy W.",
     "mile": 6.21371,
+    "count": "1"
+  },
+  {
+    "club_id": "452045",
+    "name": "Donna Z.",
+    "mile": 6.21371,
+    "count": "1"
+  },
+  {
+    "club_id": "299365",
+    "name": "Lei Kevin J.",
+    "mile": 6.21371,
+    "count": "1"
+  },
+  {
+    "club_id": "299365",
+    "name": "Li Y.",
+    "mile": 6.21371,
+    "count": "1"
+  },
+  {
+    "club_id": "464836",
+    "name": "Tina W.",
+    "mile": 6.21371,
+    "count": "1"
+  },
+  {
+    "club_id": "157594",
+    "name": "Guangzhen X.",
+    "mile": 6.151572900000001,
     "count": "1"
   }
 ]
