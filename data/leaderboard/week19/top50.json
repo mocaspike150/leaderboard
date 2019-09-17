@@ -150,6 +150,12 @@
     "count": "1"
   },
   {
+    "club_id": "299365",
+    "name": "Huaping W.",
+    "mile": 10.004073100000001,
+    "count": "1"
+  },
+  {
     "club_id": "157594",
     "name": "May L.",
     "mile": 10.004073100000001,
@@ -291,12 +297,6 @@
     "club_id": "157594",
     "name": "Jacky C.",
     "mile": 7.1457665,
-    "count": "1"
-  },
-  {
-    "club_id": "157594",
-    "name": "Becca C.",
-    "mile": 7.0214923,
     "count": "1"
   }
 ]
