@@ -30,6 +30,12 @@
     "count": "2"
   },
   {
+    "club_id": "464836",
+    "name": "King R.",
+    "mile": 23.9227835,
+    "count": "3"
+  },
+  {
     "club_id": "452045",
     "name": "Panxing W.",
     "mile": 23.8606464,
@@ -87,12 +93,6 @@
     "club_id": "299365",
     "name": "Kebiao Y.",
     "mile": 17.7090735,
-    "count": "2"
-  },
-  {
-    "club_id": "464836",
-    "name": "King R.",
-    "mile": 17.398388,
     "count": "2"
   },
   {
