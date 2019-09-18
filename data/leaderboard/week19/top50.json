@@ -60,6 +60,12 @@
     "count": "2"
   },
   {
+    "club_id": "464836",
+    "name": "Cathy W.",
+    "mile": 21.5615737,
+    "count": "3"
+  },
+  {
     "club_id": "299365",
     "name": "Yongcong D.",
     "mile": 20.8780656,
@@ -291,12 +297,6 @@
     "club_id": "157594",
     "name": "Guangzhen X.",
     "mile": 13.048791,
-    "count": "2"
-  },
-  {
-    "club_id": "157594",
-    "name": "Sherry Y.",
-    "mile": 12.5516942,
     "count": "2"
   }
 ]
