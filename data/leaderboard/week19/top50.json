@@ -48,6 +48,12 @@
     "count": "3"
   },
   {
+    "club_id": "464836",
+    "name": "Luchi C.",
+    "mile": 28.396654700000003,
+    "count": "4"
+  },
+  {
     "club_id": "452045",
     "name": "Howard G.",
     "mile": 27.5888724,
@@ -76,12 +82,6 @@
     "name": "Yan J.",
     "mile": 24.9791142,
     "count": "2"
-  },
-  {
-    "club_id": "464836",
-    "name": "Luchi C.",
-    "mile": 24.5441545,
-    "count": "3"
   },
   {
     "club_id": "452045",
@@ -193,6 +193,12 @@
   },
   {
     "club_id": "464836",
+    "name": "Jason W.",
+    "mile": 19.262501,
+    "count": "2"
+  },
+  {
+    "club_id": "464836",
     "name": "Alexis Z.",
     "mile": 19.0139526,
     "count": "3"
@@ -292,11 +298,5 @@
     "name": "Jim X.",
     "mile": 16.5284686,
     "count": "4"
-  },
-  {
-    "club_id": "452045",
-    "name": "Junyi Z.",
-    "mile": 16.404194399999998,
-    "count": "3"
   }
 ]
