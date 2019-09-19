@@ -43,6 +43,12 @@
   },
   {
     "club_id": "157594",
+    "name": "Guanyu W.",
+    "mile": 31.0064129,
+    "count": "4"
+  },
+  {
+    "club_id": "157594",
     "name": "Deling R.",
     "mile": 29.7636709,
     "count": "3"
@@ -280,12 +286,6 @@
     "name": "David L.",
     "mile": 18.1440332,
     "count": "2"
-  },
-  {
-    "club_id": "157594",
-    "name": "Guanyu W.",
-    "mile": 17.9576219,
-    "count": "3"
   },
   {
     "club_id": "299365",
