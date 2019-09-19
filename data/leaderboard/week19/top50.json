@@ -192,6 +192,12 @@
     "count": "2"
   },
   {
+    "club_id": "157594",
+    "name": "Liam S.",
+    "mile": 20.0702833,
+    "count": "2"
+  },
+  {
     "club_id": "464836",
     "name": "Joy 乔.",
     "mile": 19.9460091,
@@ -292,11 +298,5 @@
     "name": "frank l.",
     "mile": 17.398388,
     "count": "4"
-  },
-  {
-    "club_id": "157594",
-    "name": "Becca C.",
-    "mile": 17.2119767,
-    "count": "2"
   }
 ]
