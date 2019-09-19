@@ -204,6 +204,12 @@
     "count": "3"
   },
   {
+    "club_id": "464836",
+    "name": "Eva Z.",
+    "mile": 22.369356,
+    "count": "3"
+  },
+  {
     "club_id": "452045",
     "name": "Yue M.",
     "mile": 22.369356,
@@ -291,12 +297,6 @@
     "club_id": "464836",
     "name": "jinglin f.",
     "mile": 19.3246381,
-    "count": "2"
-  },
-  {
-    "club_id": "464836",
-    "name": "Jason W.",
-    "mile": 19.262501,
     "count": "2"
   }
 ]
