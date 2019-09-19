@@ -72,6 +72,12 @@
     "count": "4"
   },
   {
+    "club_id": "464836",
+    "name": "Rocky L.",
+    "mile": 28.2102434,
+    "count": "4"
+  },
+  {
     "club_id": "299365",
     "name": "Kebiao Y.",
     "mile": 27.775283700000003,
@@ -292,11 +298,5 @@
     "name": "Guoguang W.",
     "mile": 17.7090735,
     "count": "6"
-  },
-  {
-    "club_id": "464836",
-    "name": "Jason N.",
-    "mile": 17.5226622,
-    "count": "4"
   }
 ]
