@@ -55,6 +55,12 @@
   },
   {
     "club_id": "299365",
+    "name": "Yongcong D.",
+    "mile": 60.272987,
+    "count": "5"
+  },
+  {
+    "club_id": "299365",
     "name": "Kan M.",
     "mile": 59.5273418,
     "count": "6"
@@ -214,12 +220,6 @@
     "name": "NAIDONG W.",
     "mile": 40.4512521,
     "count": "6"
-  },
-  {
-    "club_id": "299365",
-    "name": "Yongcong D.",
-    "mile": 40.2648408,
-    "count": "4"
   },
   {
     "club_id": "452045",
