@@ -30,6 +30,12 @@
     "count": "8"
   },
   {
+    "club_id": "157594",
+    "name": "Guanyu W.",
+    "mile": 83.0151656,
+    "count": "10"
+  },
+  {
     "club_id": "452045",
     "name": "Jane L.",
     "mile": 82.51806880000001,
@@ -82,12 +88,6 @@
     "name": "Huibin Z.",
     "mile": 65.4925034,
     "count": "7"
-  },
-  {
-    "club_id": "157594",
-    "name": "Guanyu W.",
-    "mile": 64.9954066,
-    "count": "9"
   },
   {
     "club_id": "299365",
