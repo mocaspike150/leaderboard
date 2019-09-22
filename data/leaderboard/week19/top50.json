@@ -61,6 +61,12 @@
   },
   {
     "club_id": "157594",
+    "name": "Deling R.",
+    "mile": 60.6458096,
+    "count": "6"
+  },
+  {
+    "club_id": "157594",
     "name": "Li Z.",
     "mile": 60.3972612,
     "count": "6"
@@ -112,12 +118,6 @@
     "name": "King R.",
     "mile": 50.0825026,
     "count": "6"
-  },
-  {
-    "club_id": "157594",
-    "name": "Deling R.",
-    "mile": 49.7718171,
-    "count": "5"
   },
   {
     "club_id": "157594",
