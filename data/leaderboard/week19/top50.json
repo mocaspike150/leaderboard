@@ -1,5 +1,11 @@
 [
   {
+    "club_id": "452045",
+    "name": "Janphy S.",
+    "mile": 100.1028681,
+    "count": "12"
+  },
+  {
     "club_id": "464836",
     "name": "Jun Z.",
     "mile": 81.89669780000001,
@@ -160,12 +166,6 @@
     "name": "Becca C.",
     "mile": 44.8629862,
     "count": "6"
-  },
-  {
-    "club_id": "452045",
-    "name": "Janphy S.",
-    "mile": 43.9309297,
-    "count": "7"
   },
   {
     "club_id": "464836",
