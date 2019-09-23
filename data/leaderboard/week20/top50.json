@@ -199,6 +199,12 @@
   },
   {
     "club_id": "439808",
+    "name": "Catherine T.",
+    "mile": 2.2990727,
+    "count": "1"
+  },
+  {
+    "club_id": "439808",
     "name": "Chunying Z.",
     "mile": 2.0505242999999997,
     "count": "2"
@@ -213,6 +219,12 @@
     "club_id": "72363",
     "name": "Lei W.",
     "mile": 1.9883872,
+    "count": "1"
+  },
+  {
+    "club_id": "439808",
+    "name": "Sergey P.",
+    "mile": 0.621371,
     "count": "1"
   },
   {
