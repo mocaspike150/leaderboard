@@ -108,7 +108,7 @@
     "count": "1"
   },
   {
-    "club_id": "72363",
+    "club_id": "523602",
     "name": "Gaofeng Z.",
     "mile": 6.21371,
     "count": "1"
@@ -198,6 +198,12 @@
     "count": "1"
   },
   {
+    "club_id": "301632",
+    "name": "Jingjun S.",
+    "mile": 4.970968,
+    "count": "2"
+  },
+  {
     "club_id": "439808",
     "name": "Xiao L.",
     "mile": 4.970968,
@@ -273,12 +279,6 @@
     "club_id": "439808",
     "name": "大 山.",
     "mile": 2.485484,
-    "count": "1"
-  },
-  {
-    "club_id": "301632",
-    "name": "Jingjun S.",
-    "mile": 2.4233469,
     "count": "1"
   },
   {
