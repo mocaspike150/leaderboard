@@ -60,6 +60,12 @@
     "count": "6"
   },
   {
+    "club_id": "157594",
+    "name": "Deling R.",
+    "mile": 70.6498827,
+    "count": "7"
+  },
+  {
     "club_id": "299365",
     "name": "Kebiao Y.",
     "mile": 70.4013343,
@@ -118,12 +124,6 @@
     "name": "Huibin Z.",
     "mile": 65.4925034,
     "count": "7"
-  },
-  {
-    "club_id": "157594",
-    "name": "Deling R.",
-    "mile": 60.6458096,
-    "count": "6"
   },
   {
     "club_id": "464836",
