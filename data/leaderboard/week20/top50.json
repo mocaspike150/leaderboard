@@ -103,6 +103,12 @@
   },
   {
     "club_id": "523602",
+    "name": "ningde x.",
+    "mile": 6.2758471,
+    "count": "1"
+  },
+  {
+    "club_id": "72363",
     "name": "Gaofeng Z.",
     "mile": 6.21371,
     "count": "1"
@@ -207,6 +213,12 @@
     "club_id": "439808",
     "name": "Bi C.",
     "mile": 4.4738712000000005,
+    "count": "1"
+  },
+  {
+    "club_id": "523602",
+    "name": "Jun S.",
+    "mile": 4.2253228,
     "count": "1"
   },
   {
