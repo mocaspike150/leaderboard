@@ -72,12 +72,6 @@
     "count": "1"
   },
   {
-    "club_id": "301632",
-    "name": "Luqi P.",
-    "mile": 10.2526215,
-    "count": "2"
-  },
-  {
     "club_id": "72363",
     "name": "Tiansong D.",
     "mile": 9.8176618,
@@ -294,8 +288,14 @@
     "count": "1"
   },
   {
-    "club_id": "523602",
+    "club_id": "72363",
     "name": "Gaofeng Z.",
+    "mile": 6.21371,
+    "count": "1"
+  },
+  {
+    "club_id": "72363",
+    "name": "Yi G.",
     "mile": 6.21371,
     "count": "1"
   }
