@@ -12,6 +12,12 @@
     "count": "2"
   },
   {
+    "club_id": "301632",
+    "name": "Chunxin W.",
+    "mile": 18.3304445,
+    "count": "2"
+  },
+  {
     "club_id": "439808",
     "name": "Tony J.",
     "mile": 18.1440332,
@@ -189,12 +195,6 @@
     "club_id": "72363",
     "name": "Jean C.",
     "mile": 7.2079036,
-    "count": "1"
-  },
-  {
-    "club_id": "301632",
-    "name": "Chunxin W.",
-    "mile": 7.0836294,
     "count": "1"
   },
   {
