@@ -120,6 +120,12 @@
     "count": "2"
   },
   {
+    "club_id": "439808",
+    "name": "Stephen G.",
+    "mile": 12.1788716,
+    "count": "2"
+  },
+  {
     "club_id": "301632",
     "name": "Yuezhou(Jerry) J.",
     "mile": 12.1788716,
@@ -290,12 +296,6 @@
   {
     "club_id": "301632",
     "name": "Shen X.",
-    "mile": 7.0214923,
-    "count": "1"
-  },
-  {
-    "club_id": "72363",
-    "name": "want f.",
     "mile": 7.0214923,
     "count": "1"
   }
