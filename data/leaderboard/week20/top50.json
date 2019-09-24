@@ -138,6 +138,12 @@
     "count": "2"
   },
   {
+    "club_id": "439808",
+    "name": "Bi C.",
+    "mile": 10.0662102,
+    "count": "2"
+  },
+  {
     "club_id": "72363",
     "name": "Dayu Z.",
     "mile": 10.0662102,
@@ -291,12 +297,6 @@
     "club_id": "523602",
     "name": "Weiyong H.",
     "mile": 6.8972181,
-    "count": "1"
-  },
-  {
-    "club_id": "439808",
-    "name": "Sunny Y.",
-    "mile": 6.835081,
     "count": "1"
   }
 ]
