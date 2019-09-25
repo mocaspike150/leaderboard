@@ -48,6 +48,12 @@
     "count": "3"
   },
   {
+    "club_id": "301632",
+    "name": "Harris Z.",
+    "mile": 23.7363722,
+    "count": "3"
+  },
+  {
     "club_id": "523602",
     "name": "Guanyu W.",
     "mile": 22.990727,
@@ -160,12 +166,6 @@
     "name": "Yi G.",
     "mile": 17.1498396,
     "count": "3"
-  },
-  {
-    "club_id": "301632",
-    "name": "Harris Z.",
-    "mile": 17.0877025,
-    "count": "2"
   },
   {
     "club_id": "72363",
