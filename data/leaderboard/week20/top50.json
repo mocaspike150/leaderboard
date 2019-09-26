@@ -30,12 +30,6 @@
     "count": "5"
   },
   {
-    "club_id": "523602",
-    "name": "Guanyu W.",
-    "mile": 33.9889937,
-    "count": "4"
-  },
-  {
     "club_id": "72363",
     "name": "Min C.",
     "mile": 32.311292,
@@ -141,6 +135,12 @@
     "club_id": "439808",
     "name": "Yuan H.",
     "mile": 23.1771383,
+    "count": "3"
+  },
+  {
+    "club_id": "523602",
+    "name": "Guanyu W.",
+    "mile": 22.990727,
     "count": "3"
   },
   {
