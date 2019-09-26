@@ -103,6 +103,12 @@
   },
   {
     "club_id": "439808",
+    "name": "Yunfeng Z.",
+    "mile": 31.068550000000002,
+    "count": "5"
+  },
+  {
+    "club_id": "439808",
     "name": "Samantha W.",
     "mile": 31.0064129,
     "count": "4"
@@ -208,12 +214,6 @@
     "name": "Jingjun S.",
     "mile": 25.973307799999997,
     "count": "8"
-  },
-  {
-    "club_id": "439808",
-    "name": "Yunfeng Z.",
-    "mile": 25.973307799999997,
-    "count": "4"
   },
   {
     "club_id": "439808",
