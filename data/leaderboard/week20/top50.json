@@ -1,5 +1,11 @@
 [
   {
+    "club_id": "439808",
+    "name": "Tony C.",
+    "mile": 75.5587136,
+    "count": "6"
+  },
+  {
     "club_id": "72363",
     "name": "Guodong P.",
     "mile": 66.1760115,
@@ -12,10 +18,10 @@
     "count": "4"
   },
   {
-    "club_id": "439808",
-    "name": "Tony C.",
-    "mile": 60.272987,
-    "count": "5"
+    "club_id": "72363",
+    "name": "Grant G.",
+    "mile": 51.822341400000006,
+    "count": "6"
   },
   {
     "club_id": "72363",
@@ -37,9 +43,9 @@
   },
   {
     "club_id": "72363",
-    "name": "Grant G.",
-    "mile": 43.8066555,
-    "count": "5"
+    "name": "jack z.",
+    "mile": 44.0552039,
+    "count": "4"
   },
   {
     "club_id": "301632",
@@ -120,6 +126,12 @@
     "count": "3"
   },
   {
+    "club_id": "301632",
+    "name": "Jingjun S.",
+    "mile": 36.598751899999996,
+    "count": "12"
+  },
+  {
     "club_id": "439808",
     "name": "Min Y.",
     "mile": 36.4744777,
@@ -148,12 +160,6 @@
     "name": "Qingmei B.",
     "mile": 34.2375421,
     "count": "5"
-  },
-  {
-    "club_id": "301632",
-    "name": "Jingjun S.",
-    "mile": 34.1132679,
-    "count": "11"
   },
   {
     "club_id": "523602",
@@ -228,6 +234,12 @@
     "count": "3"
   },
   {
+    "club_id": "439808",
+    "name": "Jun J.",
+    "mile": 29.2665741,
+    "count": "6"
+  },
+  {
     "club_id": "523602",
     "name": "Jun S.",
     "mile": 28.7694773,
@@ -249,6 +261,12 @@
     "club_id": "301632",
     "name": "Sherry X.",
     "mile": 28.6452031,
+    "count": "4"
+  },
+  {
+    "club_id": "301632",
+    "name": "大雁 Z.",
+    "mile": 28.4587918,
     "count": "4"
   },
   {
@@ -279,24 +297,6 @@
     "club_id": "301632",
     "name": "Harris Z.",
     "mile": 27.961695,
-    "count": "4"
-  },
-  {
-    "club_id": "439808",
-    "name": "Sherry s.",
-    "mile": 27.961695,
-    "count": "5"
-  },
-  {
-    "club_id": "439808",
-    "name": "John W.",
-    "mile": 27.5888724,
-    "count": "4"
-  },
-  {
-    "club_id": "301632",
-    "name": "Jessie Y.",
-    "mile": 27.4645982,
     "count": "4"
   }
 ]
