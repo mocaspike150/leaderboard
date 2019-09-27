@@ -1,6 +1,7 @@
 NODE=/usr/local/bin/node
 update: 
 	date
+	$(NODE) -v
 	$(NODE) bin/collect.js 72363
 	git status
 	date
