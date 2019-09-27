@@ -18,6 +18,12 @@
     "count": "5"
   },
   {
+    "club_id": "439808",
+    "name": "Richard Y.",
+    "mile": 46.3542766,
+    "count": "5"
+  },
+  {
     "club_id": "301632",
     "name": "Lifeng P.",
     "mile": 45.360083,
@@ -99,12 +105,6 @@
     "club_id": "72363",
     "name": "Tiansong D.",
     "mile": 38.7114133,
-    "count": "4"
-  },
-  {
-    "club_id": "439808",
-    "name": "Richard Y.",
-    "mile": 38.1521794,
     "count": "4"
   },
   {
