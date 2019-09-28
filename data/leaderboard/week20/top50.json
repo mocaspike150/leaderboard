@@ -180,6 +180,12 @@
     "count": "7"
   },
   {
+    "club_id": "523602",
+    "name": "Alex L.",
+    "mile": 41.5075828,
+    "count": "5"
+  },
+  {
     "club_id": "301632",
     "name": "Shaoguang C.",
     "mile": 41.4454457,
@@ -292,11 +298,5 @@
     "name": "Jun J.",
     "mile": 35.790969600000004,
     "count": "7"
-  },
-  {
-    "club_id": "72363",
-    "name": "Hanju W.",
-    "mile": 34.610364700000005,
-    "count": "5"
   }
 ]
