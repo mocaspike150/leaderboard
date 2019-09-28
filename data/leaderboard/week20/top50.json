@@ -156,6 +156,12 @@
     "count": "4"
   },
   {
+    "club_id": "523602",
+    "name": "Hongzhe L.",
+    "mile": 43.433832900000006,
+    "count": "4"
+  },
+  {
     "club_id": "301632",
     "name": "Harris Z.",
     "mile": 43.0610103,
@@ -292,11 +298,5 @@
     "name": "Min Y.",
     "mile": 38.2764536,
     "count": "4"
-  },
-  {
-    "club_id": "72363",
-    "name": "Yi G.",
-    "mile": 38.2764536,
-    "count": "5"
   }
 ]
