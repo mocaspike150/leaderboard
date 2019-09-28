@@ -180,12 +180,6 @@
     "count": "5"
   },
   {
-    "club_id": "301632",
-    "name": "Sherry X.",
-    "mile": 34.4239534,
-    "count": "6"
-  },
-  {
     "club_id": "439808",
     "name": "Qingmei B.",
     "mile": 34.2375421,
@@ -208,6 +202,12 @@
     "name": "Kevin M.",
     "mile": 33.4297598,
     "count": "4"
+  },
+  {
+    "club_id": "301632",
+    "name": "Sherry X.",
+    "mile": 33.4297598,
+    "count": "6"
   },
   {
     "club_id": "72363",
