@@ -96,6 +96,12 @@
     "count": "9"
   },
   {
+    "club_id": "439808",
+    "name": "Wayne H.",
+    "mile": 46.6649621,
+    "count": "4"
+  },
+  {
     "club_id": "72363",
     "name": "Shengxi D.",
     "mile": 46.4785508,
@@ -228,6 +234,12 @@
     "count": "5"
   },
   {
+    "club_id": "439808",
+    "name": "gang y.",
+    "mile": 38.338590700000005,
+    "count": "5"
+  },
+  {
     "club_id": "72363",
     "name": "Min Y.",
     "mile": 38.2764536,
@@ -285,18 +297,6 @@
     "club_id": "439808",
     "name": "Lieting Y.",
     "mile": 33.4918969,
-    "count": "4"
-  },
-  {
-    "club_id": "523602",
-    "name": "Alex L.",
-    "mile": 33.4297598,
-    "count": "4"
-  },
-  {
-    "club_id": "72363",
-    "name": "Kevin M.",
-    "mile": 33.4297598,
     "count": "4"
   }
 ]
