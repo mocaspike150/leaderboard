@@ -198,12 +198,6 @@
     "count": "7"
   },
   {
-    "club_id": "301632",
-    "name": "Jerry W.",
-    "mile": 51.698067200000004,
-    "count": "7"
-  },
-  {
     "club_id": "72363",
     "name": "Danrey W.",
     "mile": 51.573793,
@@ -297,6 +291,12 @@
     "club_id": "301632",
     "name": "Lifeng P.",
     "mile": 45.360083,
+    "count": "5"
+  },
+  {
+    "club_id": "439808",
+    "name": "Tao L.",
+    "mile": 45.1115346,
     "count": "5"
   }
 ]
