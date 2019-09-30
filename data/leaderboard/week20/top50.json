@@ -1,15 +1,15 @@
 [
   {
     "club_id": "439808",
-    "name": "Tony C.",
-    "mile": 106.254441,
+    "name": "Jesse L.",
+    "mile": 112.28173969999999,
     "count": "8"
   },
   {
     "club_id": "439808",
-    "name": "Jesse L.",
-    "mile": 105.26024740000001,
-    "count": "7"
+    "name": "Tony C.",
+    "mile": 106.254441,
+    "count": "8"
   },
   {
     "club_id": "72363",
@@ -76,6 +76,12 @@
     "name": "Richard Y.",
     "mile": 66.7973825,
     "count": "9"
+  },
+  {
+    "club_id": "439808",
+    "name": "Tony J.",
+    "mile": 64.4361727,
+    "count": "10"
   },
   {
     "club_id": "301632",
@@ -154,12 +160,6 @@
     "name": "Wayne H.",
     "mile": 56.7311723,
     "count": "5"
-  },
-  {
-    "club_id": "439808",
-    "name": "Tony J.",
-    "mile": 56.358349700000005,
-    "count": "9"
   },
   {
     "club_id": "72363",
