@@ -2,7 +2,8 @@ const fs = require('fs');
 const skipped = [
   '72363',   // ChiRunners 
   '128445',  // BURN
-  '204946'   // NewBee  (the last element has no comma)
+  '204946',   // NewBee
+  '241951'   // Misty Mountain (the last element has no comma)
 ];
 const latest = (id) => {
   if(id) {
