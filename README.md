@@ -24,4 +24,4 @@ Following clubs need to be updated manually due to unstable leaderboard display 
 
 ### NewBee
 - [Strava](https://www.strava.com/clubs/204946)
-- [leaderboard](https://www.mocaspike150.org/leaderboard/data/html/204946.html) ([edit and save html data](https://github.com/mocaspike150/leaderboard/edit/master/data/html/204946.
+- [leaderboard](https://www.mocaspike150.org/leaderboard/data/html/204946.html) ([edit and save html data](https://github.com/mocaspike150/leaderboard/edit/master/data/html/204946.html))
