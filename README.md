@@ -24,8 +24,4 @@ Following clubs need to be updated manually due to unstable leaderboard display 
 
 ### NewBee
 - [Strava](https://www.strava.com/clubs/204946)
-- [leaderboard](https://www.mocaspike150.org/leaderboard/data/html/204946.html) ([edit and save html data](https://github.com/mocaspike150/leaderboard/edit/master/data/html/204946.html))
-
-### Misty Mountain
-- [Strava](https://www.strava.com/clubs/241951)
-- [leaderboard data](https://www.mocaspike150.org/leaderboard/data/html/241951.html) ([edit and save html data](https://github.com/mocaspike150/leaderboard/edit/master/data/html/241951.html))
+- [leaderboard](https://www.mocaspike150.org/leaderboard/data/html/204946.html) ([edit and save html data](https://github.com/mocaspike150/leaderboard/edit/master/data/html/204946.
