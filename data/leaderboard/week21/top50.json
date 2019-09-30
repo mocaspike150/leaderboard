@@ -1,5 +1,11 @@
 [
   {
+    "club_id": "175314",
+    "name": "YP Z.",
+    "mile": 16.0935089,
+    "count": "2"
+  },
+  {
     "club_id": "204946",
     "name": "Kay W.",
     "mile": 13.9808475,
@@ -21,6 +27,12 @@
     "club_id": "204946",
     "name": "Stephen G.",
     "mile": 12.7381055,
+    "count": "1"
+  },
+  {
+    "club_id": "175314",
+    "name": "Jianmin Z.",
+    "mile": 11.992460300000001,
     "count": "1"
   },
   {
@@ -84,12 +96,6 @@
     "count": "1"
   },
   {
-    "club_id": "175314",
-    "name": "YP Z.",
-    "mile": 6.648669699999999,
-    "count": "1"
-  },
-  {
     "club_id": "241951",
     "name": "Hao Y.",
     "mile": 6.5865326,
@@ -127,6 +133,12 @@
   },
   {
     "club_id": "176328",
+    "name": "Shufan W.",
+    "mile": 6.21371,
+    "count": "2"
+  },
+  {
+    "club_id": "176328",
     "name": "Yi Z.",
     "mile": 6.21371,
     "count": "1"
@@ -146,6 +158,12 @@
   {
     "club_id": "241951",
     "name": "Michael Y.",
+    "mile": 6.0894358,
+    "count": "1"
+  },
+  {
+    "club_id": "175314",
+    "name": "SK M.",
     "mile": 6.0894358,
     "count": "1"
   },
@@ -222,9 +240,9 @@
     "count": "1"
   },
   {
-    "club_id": "176328",
-    "name": "Shufan W.",
-    "mile": 4.9088309,
+    "club_id": "175314",
+    "name": "zhen l.",
+    "mile": 4.6602825,
     "count": "1"
   },
   {
@@ -252,6 +270,12 @@
     "count": "1"
   },
   {
+    "club_id": "175314",
+    "name": "Mary W.",
+    "mile": 3.8525002,
+    "count": "1"
+  },
+  {
     "club_id": "204946",
     "name": "Jie W.",
     "mile": 3.7903631,
@@ -273,30 +297,6 @@
     "club_id": "204946",
     "name": "Chenjing W.",
     "mile": 3.106855,
-    "count": "1"
-  },
-  {
-    "club_id": "241951",
-    "name": "Joy F.",
-    "mile": 2.9825808,
-    "count": "1"
-  },
-  {
-    "club_id": "204946",
-    "name": "Carey W.",
-    "mile": 2.3612098,
-    "count": "1"
-  },
-  {
-    "club_id": "175314",
-    "name": "Zi L.",
-    "mile": 2.3612098,
-    "count": "1"
-  },
-  {
-    "club_id": "175314",
-    "name": "Yuxing F.",
-    "mile": 1.9883872,
     "count": "1"
   }
 ]
