@@ -24,6 +24,12 @@
     "count": "9"
   },
   {
+    "club_id": "72363",
+    "name": "Min C.",
+    "mile": 75.8693991,
+    "count": "12"
+  },
+  {
     "club_id": "523602",
     "name": "Guanyu W.",
     "mile": 72.0168989,
@@ -70,12 +76,6 @@
     "name": "Richard Y.",
     "mile": 66.7973825,
     "count": "9"
-  },
-  {
-    "club_id": "72363",
-    "name": "Min C.",
-    "mile": 66.2381486,
-    "count": "11"
   },
   {
     "club_id": "301632",
@@ -138,6 +138,12 @@
     "count": "6"
   },
   {
+    "club_id": "72363",
+    "name": "jack z.",
+    "mile": 57.3525433,
+    "count": "5"
+  },
+  {
     "club_id": "439808",
     "name": "Howard G.",
     "mile": 56.793309400000005,
@@ -154,6 +160,12 @@
     "name": "Tony J.",
     "mile": 56.358349700000005,
     "count": "9"
+  },
+  {
+    "club_id": "72363",
+    "name": "Zhong O.",
+    "mile": 55.7369787,
+    "count": "8"
   },
   {
     "club_id": "301632",
@@ -196,12 +208,6 @@
     "name": "Sherry X.",
     "mile": 53.7485915,
     "count": "9"
-  },
-  {
-    "club_id": "72363",
-    "name": "Zhong O.",
-    "mile": 53.375768900000004,
-    "count": "6"
   },
   {
     "club_id": "301632",
@@ -252,6 +258,12 @@
     "count": "5"
   },
   {
+    "club_id": "72363",
+    "name": "Yanzi G.",
+    "mile": 51.0145591,
+    "count": "6"
+  },
+  {
     "club_id": "523602",
     "name": "ningde x.",
     "mile": 51.0145591,
@@ -262,6 +274,12 @@
     "name": "David W.",
     "mile": 50.7660107,
     "count": "7"
+  },
+  {
+    "club_id": "72363",
+    "name": "Kevin C.",
+    "mile": 49.8339542,
+    "count": "13"
   },
   {
     "club_id": "523602",
@@ -279,24 +297,6 @@
     "club_id": "439808",
     "name": "Lieting Y.",
     "mile": 49.5232687,
-    "count": "5"
-  },
-  {
-    "club_id": "439808",
-    "name": "Jie C.",
-    "mile": 49.088309,
-    "count": "6"
-  },
-  {
-    "club_id": "439808",
-    "name": "Hong J.",
-    "mile": 48.7154864,
-    "count": "7"
-  },
-  {
-    "club_id": "439808",
-    "name": "Wang C.",
-    "mile": 48.466938,
     "count": "5"
   }
 ]
