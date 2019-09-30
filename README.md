@@ -1,5 +1,8 @@
 # leaderboard
 
+[actions](https://github.com/mocaspike150/leaderboard/actions)
+
+
 Pages to check:
 
 - [https://www.mocaspike150.org](https://www.mocaspike150.org/)
