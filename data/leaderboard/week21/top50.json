@@ -276,6 +276,12 @@
     "count": "2"
   },
   {
+    "club_id": "176328",
+    "name": "Jianghui M.",
+    "mile": 9.1962908,
+    "count": "2"
+  },
+  {
     "club_id": "175314",
     "name": "Julia W.",
     "mile": 9.0720166,
@@ -291,12 +297,6 @@
     "club_id": "175314",
     "name": "Jun M.",
     "mile": 8.947742400000001,
-    "count": "1"
-  },
-  {
-    "club_id": "241951",
-    "name": "Liyi G.",
-    "mile": 8.3885085,
     "count": "1"
   }
 ]
