@@ -1,14 +1,14 @@
 [
   {
     "club_id": "175314",
-    "name": "Jianmin Z.",
-    "mile": 28.2102434,
-    "count": "2"
+    "name": "YP Z.",
+    "mile": 28.7694773,
+    "count": "3"
   },
   {
     "club_id": "175314",
-    "name": "YP Z.",
-    "mile": 16.0935089,
+    "name": "Jianmin Z.",
+    "mile": 28.2102434,
     "count": "2"
   },
   {
@@ -228,6 +228,12 @@
     "count": "1"
   },
   {
+    "club_id": "175314",
+    "name": "Lifei Z.",
+    "mile": 6.2758471,
+    "count": "1"
+  },
+  {
     "club_id": "241951",
     "name": "Minnie Z.",
     "mile": 6.2758471,
@@ -290,12 +296,6 @@
   {
     "club_id": "241951",
     "name": "Michael Y.",
-    "mile": 6.0894358,
-    "count": "1"
-  },
-  {
-    "club_id": "175314",
-    "name": "SK M.",
     "mile": 6.0894358,
     "count": "1"
   }
