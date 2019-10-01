@@ -61,6 +61,12 @@
   },
   {
     "club_id": "175314",
+    "name": "zhen l.",
+    "mile": 16.155646,
+    "count": "3"
+  },
+  {
+    "club_id": "175314",
     "name": "Yong W.",
     "mile": 14.9750411,
     "count": "2"
@@ -150,6 +156,12 @@
     "count": "2"
   },
   {
+    "club_id": "241951",
+    "name": "Rose L.",
+    "mile": 12.303145800000001,
+    "count": "4"
+  },
+  {
     "club_id": "175314",
     "name": "Sherry M.",
     "mile": 11.992460300000001,
@@ -160,12 +172,6 @@
     "name": "Patrick (Ray) H.",
     "mile": 11.557500600000001,
     "count": "3"
-  },
-  {
-    "club_id": "175314",
-    "name": "zhen l.",
-    "mile": 11.4953635,
-    "count": "2"
   },
   {
     "club_id": "241951",
@@ -290,12 +296,6 @@
   {
     "club_id": "176328",
     "name": "Jimmy Z.",
-    "mile": 7.9535488,
-    "count": "1"
-  },
-  {
-    "club_id": "176328",
-    "name": "wilson z.",
     "mile": 7.9535488,
     "count": "1"
   }
