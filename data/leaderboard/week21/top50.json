@@ -126,6 +126,12 @@
     "count": "1"
   },
   {
+    "club_id": "241951",
+    "name": "Jade L.",
+    "mile": 7.9535488,
+    "count": "2"
+  },
+  {
     "club_id": "204946",
     "name": "Connie Z.",
     "mile": 7.7050004,
@@ -142,6 +148,12 @@
     "name": "Yong W.",
     "mile": 7.5185891,
     "count": "1"
+  },
+  {
+    "club_id": "241951",
+    "name": "奔向 標.",
+    "mile": 7.5185891,
+    "count": "2"
   },
   {
     "club_id": "175314",
@@ -286,17 +298,5 @@
     "name": "SK M.",
     "mile": 6.0894358,
     "count": "1"
-  },
-  {
-    "club_id": "204946",
-    "name": "Shiyue L.",
-    "mile": 6.0894358,
-    "count": "1"
-  },
-  {
-    "club_id": "241951",
-    "name": "Yike C.",
-    "mile": 6.0894358,
-    "count": "2"
   }
 ]
