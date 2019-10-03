@@ -30,6 +30,12 @@
     "count": "10"
   },
   {
+    "club_id": "175314",
+    "name": "zhen l.",
+    "mile": 39.6434698,
+    "count": "6"
+  },
+  {
     "club_id": "204946",
     "name": "🐝 J.",
     "mile": 39.581332700000004,
@@ -40,12 +46,6 @@
     "name": "Richard Y.",
     "mile": 38.4007278,
     "count": "4"
-  },
-  {
-    "club_id": "175314",
-    "name": "zhen l.",
-    "mile": 34.2996792,
-    "count": "5"
   },
   {
     "club_id": "176328",
@@ -277,6 +277,12 @@
   },
   {
     "club_id": "241951",
+    "name": "Rachel l.",
+    "mile": 19.262501,
+    "count": "2"
+  },
+  {
+    "club_id": "241951",
     "name": "hehe z.",
     "mile": 19.0139526,
     "count": "2"
@@ -291,12 +297,6 @@
     "club_id": "241951",
     "name": "Lei H.",
     "mile": 18.019759,
-    "count": "3"
-  },
-  {
-    "club_id": "175314",
-    "name": "Chan F.",
-    "mile": 17.9576219,
     "count": "3"
   }
 ]
