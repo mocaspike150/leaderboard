@@ -25,7 +25,6 @@ fetch(api).then(res => res.text())
          current_runners[team.id] += team.runners
        }
      }
-     console.log(current_miles)
      team_ranking = Object.keys(current_miles).map(
        (k) => [k, name[k], current_miles[k], current_runners[k], current_miles[k] / current_runners[k]]
      ).sort((x,y) => (x[4] < y[4] ? 1 : -1))
