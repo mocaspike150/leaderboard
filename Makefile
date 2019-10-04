@@ -134,10 +134,14 @@ total: convert
 	date > data/update_time.txt
 	node bin/current_miles.js > data/current_miles.txt
 	node bin/club_ranking.js > data/club_ranking.csv
+	node bin/club_total.js > data/club_total.csv
+	node bin/club_mpr.js > data/club_mpr.csv
 	git add data/leaderboard.json
 	git add data/update_time.txt
 	git add data/current_miles.txt
 	git add data/club_ranking.csv
+	git add data/club_total.csv
+	git add data/club_mpr.csv
 	git commit -m 'update total by Makefile' | true
 	git push -u https://ontouchstart:${GITHUB_TOKEN}@github.com/mocaspike150/leaderboard master
 
