@@ -180,6 +180,12 @@
     "count": "5"
   },
   {
+    "club_id": "241951",
+    "name": "Baoqing L.",
+    "mile": 37.5929455,
+    "count": "4"
+  },
+  {
     "club_id": "175314",
     "name": "Margaret M.",
     "mile": 37.5308084,
@@ -292,11 +298,5 @@
     "name": "Haiyong L.",
     "mile": 34.175405,
     "count": "5"
-  },
-  {
-    "club_id": "175314",
-    "name": "Zhi Y.",
-    "mile": 33.4297598,
-    "count": "4"
   }
 ]
