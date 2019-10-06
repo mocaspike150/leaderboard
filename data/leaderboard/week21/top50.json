@@ -79,6 +79,12 @@
   },
   {
     "club_id": "241951",
+    "name": "Michael Y.",
+    "mile": 54.307825400000006,
+    "count": "7"
+  },
+  {
+    "club_id": "241951",
     "name": "Tony L.",
     "mile": 53.5621802,
     "count": "6"
@@ -93,12 +99,6 @@
     "club_id": "241951",
     "name": "Minnie Z.",
     "mile": 49.8960913,
-    "count": "6"
-  },
-  {
-    "club_id": "241951",
-    "name": "Michael Y.",
-    "mile": 49.8339542,
     "count": "6"
   },
   {
