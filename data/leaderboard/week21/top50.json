@@ -2,8 +2,8 @@
   {
     "club_id": "175314",
     "name": "YP Z.",
-    "mile": 134.5268215,
-    "count": "13"
+    "mile": 140.5541202,
+    "count": "14"
   },
   {
     "club_id": "241951",
@@ -66,6 +66,12 @@
     "count": "6"
   },
   {
+    "club_id": "176328",
+    "name": "Shufan W.",
+    "mile": 61.8264145,
+    "count": "11"
+  },
+  {
     "club_id": "241951",
     "name": "Feng Q.",
     "mile": 61.3914548,
@@ -109,6 +115,12 @@
   },
   {
     "club_id": "241951",
+    "name": "Yuefeng T.",
+    "mile": 55.364156099999995,
+    "count": "6"
+  },
+  {
+    "club_id": "241951",
     "name": "Liyi G.",
     "mile": 55.0534706,
     "count": "6"
@@ -144,12 +156,6 @@
     "count": "7"
   },
   {
-    "club_id": "176328",
-    "name": "Shufan W.",
-    "mile": 53.313631799999996,
-    "count": "10"
-  },
-  {
     "club_id": "175314",
     "name": "Margaret M.",
     "mile": 52.630123700000006,
@@ -172,6 +178,12 @@
     "name": "Jerry L.",
     "mile": 50.2689139,
     "count": "7"
+  },
+  {
+    "club_id": "241951",
+    "name": "C T.",
+    "mile": 50.020365500000004,
+    "count": "12"
   },
   {
     "club_id": "176328",
@@ -202,6 +214,12 @@
     "name": "Molian D.",
     "mile": 48.8397606,
     "count": "6"
+  },
+  {
+    "club_id": "241951",
+    "name": "Lei H.",
+    "mile": 48.404800900000005,
+    "count": "7"
   },
   {
     "club_id": "176328",
@@ -252,6 +270,12 @@
     "count": "6"
   },
   {
+    "club_id": "241951",
+    "name": "Wendy Z.",
+    "mile": 43.433832900000006,
+    "count": "6"
+  },
+  {
     "club_id": "175314",
     "name": "Jianfeng L.",
     "mile": 42.9367361,
@@ -274,29 +298,5 @@
     "name": "Ping Y.",
     "mile": 41.7561312,
     "count": "4"
-  },
-  {
-    "club_id": "204946",
-    "name": "Yan Y.",
-    "mile": 41.6939941,
-    "count": "10"
-  },
-  {
-    "club_id": "176328",
-    "name": "Haiyong L.",
-    "mile": 41.259034400000004,
-    "count": "6"
-  },
-  {
-    "club_id": "175314",
-    "name": "小红 Z.",
-    "mile": 41.1347602,
-    "count": "8"
-  },
-  {
-    "club_id": "176328",
-    "name": "Jianghui M.",
-    "mile": 40.5755263,
-    "count": "7"
   }
 ]
