@@ -30,6 +30,12 @@
     "count": "7"
   },
   {
+    "club_id": "175314",
+    "name": "Jianmin Z.",
+    "mile": 73.5703264,
+    "count": "16"
+  },
+  {
     "club_id": "241951",
     "name": "john c.",
     "mile": 71.0848424,
@@ -46,12 +52,6 @@
     "name": "Yu L.",
     "mile": 70.3391972,
     "count": "7"
-  },
-  {
-    "club_id": "175314",
-    "name": "Jianmin Z.",
-    "mile": 68.6614955,
-    "count": "13"
   },
   {
     "club_id": "241951",
