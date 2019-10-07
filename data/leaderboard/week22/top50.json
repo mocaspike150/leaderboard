@@ -54,6 +54,18 @@
     "count": "1"
   },
   {
+    "club_id": "155681",
+    "name": "Zunxuan Digger C.",
+    "mile": 9.258427900000001,
+    "count": "1"
+  },
+  {
+    "club_id": "229749",
+    "name": "Chang L.",
+    "mile": 7.8914117,
+    "count": "1"
+  },
+  {
     "club_id": "484248",
     "name": "Wuxiong C.",
     "mile": 7.5807262,
@@ -286,17 +298,5 @@
     "name": "清风不道骨 独.",
     "mile": 3.106855,
     "count": "3"
-  },
-  {
-    "club_id": "155681",
-    "name": "Chang L.",
-    "mile": 2.9825808,
-    "count": "1"
-  },
-  {
-    "club_id": "155681",
-    "name": "Lilly （蜗牛爱跑步） J.",
-    "mile": 2.9825808,
-    "count": "1"
   }
 ]
