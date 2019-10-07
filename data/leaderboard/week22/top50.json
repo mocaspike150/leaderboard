@@ -253,6 +253,12 @@
   },
   {
     "club_id": "484248",
+    "name": "Peifang Z.",
+    "mile": 5.0331051,
+    "count": "1"
+  },
+  {
+    "club_id": "484248",
     "name": "Weber S.",
     "mile": 4.970968,
     "count": "1"
@@ -292,11 +298,5 @@
     "name": "Diana W.",
     "mile": 3.9767744,
     "count": "1"
-  },
-  {
-    "club_id": "155681",
-    "name": "Gowa B.",
-    "mile": 3.9767744,
-    "count": "2"
   }
 ]
