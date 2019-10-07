@@ -60,6 +60,12 @@
     "count": "2"
   },
   {
+    "club_id": "523430",
+    "name": "Stephen G.",
+    "mile": 9.6312505,
+    "count": "1"
+  },
+  {
     "club_id": "229749",
     "name": "Josh W.",
     "mile": 9.5691134,
@@ -292,11 +298,5 @@
     "name": "Gowa B.",
     "mile": 3.9767744,
     "count": "2"
-  },
-  {
-    "club_id": "484248",
-    "name": "haiyi z.",
-    "mile": 3.8525002,
-    "count": "1"
   }
 ]
