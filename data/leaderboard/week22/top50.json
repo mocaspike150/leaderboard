@@ -235,6 +235,12 @@
   },
   {
     "club_id": "229749",
+    "name": "Yiting D.",
+    "mile": 9.941936,
+    "count": "2"
+  },
+  {
+    "club_id": "229749",
     "name": "劲松 彭.",
     "mile": 9.941936,
     "count": "2"
@@ -292,11 +298,5 @@
     "name": "Samantha W.",
     "mile": 8.699194,
     "count": "2"
-  },
-  {
-    "club_id": "155681",
-    "name": "Bill L.",
-    "mile": 8.5749198,
-    "count": "4"
   }
 ]
