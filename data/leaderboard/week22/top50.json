@@ -24,6 +24,18 @@
     "count": "2"
   },
   {
+    "club_id": "155681",
+    "name": "Yong J.",
+    "mile": 19.883872,
+    "count": "4"
+  },
+  {
+    "club_id": "484248",
+    "name": "沛源 陈.",
+    "mile": 19.6353236,
+    "count": "4"
+  },
+  {
     "club_id": "229749",
     "name": "Peng Z.",
     "mile": 18.0818961,
@@ -31,9 +43,9 @@
   },
   {
     "club_id": "155681",
-    "name": "Yong J.",
-    "mile": 16.155646,
-    "count": "3"
+    "name": "James c.",
+    "mile": 17.7090735,
+    "count": "2"
   },
   {
     "club_id": "155681",
@@ -42,16 +54,16 @@
     "count": "1"
   },
   {
-    "club_id": "484248",
-    "name": "楠 安.",
-    "mile": 13.9187104,
+    "club_id": "229749",
+    "name": "Weihua C.",
+    "mile": 15.4100008,
     "count": "2"
   },
   {
     "club_id": "484248",
-    "name": "沛源 陈.",
-    "mile": 13.297339399999998,
-    "count": "3"
+    "name": "楠 安.",
+    "mile": 13.9187104,
+    "count": "2"
   },
   {
     "club_id": "229749",
@@ -73,6 +85,12 @@
   },
   {
     "club_id": "155681",
+    "name": "Qiang M.",
+    "mile": 11.992460300000001,
+    "count": "2"
+  },
+  {
+    "club_id": "155681",
     "name": "SK M.",
     "mile": 11.433226399999999,
     "count": "1"
@@ -84,15 +102,21 @@
     "count": "2"
   },
   {
+    "club_id": "155681",
+    "name": "jessica Z.",
+    "mile": 10.811855399999999,
+    "count": "2"
+  },
+  {
+    "club_id": "484248",
+    "name": "Jack J.",
+    "mile": 10.749718300000001,
+    "count": "2"
+  },
+  {
     "club_id": "229749",
     "name": "Junfeng Z.",
     "mile": 10.563307,
-    "count": "1"
-  },
-  {
-    "club_id": "155681",
-    "name": "James c.",
-    "mile": 10.501169899999999,
     "count": "1"
   },
   {
@@ -102,6 +126,18 @@
     "count": "1"
   },
   {
+    "club_id": "155681",
+    "name": "Chris C.",
+    "mile": 10.3768957,
+    "count": "2"
+  },
+  {
+    "club_id": "155681",
+    "name": "Lei W.",
+    "mile": 10.314758600000001,
+    "count": "3"
+  },
+  {
     "club_id": "438046",
     "name": "Gary W.",
     "mile": 10.004073100000001,
@@ -109,7 +145,7 @@
   },
   {
     "club_id": "523430",
-    "name": "清风不道骨 独.",
+    "name": "Kevin L.",
     "mile": 9.8176618,
     "count": "5"
   },
@@ -163,6 +199,12 @@
   },
   {
     "club_id": "155681",
+    "name": "Xiao L.",
+    "mile": 8.202097199999999,
+    "count": "1"
+  },
+  {
+    "club_id": "155681",
     "name": "Dai G.",
     "mile": 8.1399601,
     "count": "2"
@@ -210,6 +252,18 @@
     "count": "1"
   },
   {
+    "club_id": "155681",
+    "name": "LiQiang G.",
+    "mile": 6.9593552,
+    "count": "1"
+  },
+  {
+    "club_id": "229749",
+    "name": "Yong J.",
+    "mile": 6.9593552,
+    "count": "1"
+  },
+  {
     "club_id": "229749",
     "name": "Yibing G.",
     "mile": 6.8972181,
@@ -234,69 +288,15 @@
     "count": "1"
   },
   {
+    "club_id": "523430",
+    "name": "Min Y.",
+    "mile": 6.4001213,
+    "count": "1"
+  },
+  {
     "club_id": "229749",
     "name": "Haitao S.",
     "mile": 6.2758471,
-    "count": "1"
-  },
-  {
-    "club_id": "229749",
-    "name": "Haiqiang C.",
-    "mile": 6.21371,
-    "count": "1"
-  },
-  {
-    "club_id": "523430",
-    "name": "Hong J.",
-    "mile": 6.21371,
-    "count": "1"
-  },
-  {
-    "club_id": "229749",
-    "name": "Hongzhe L.",
-    "mile": 6.21371,
-    "count": "1"
-  },
-  {
-    "club_id": "484248",
-    "name": "JUAN H.",
-    "mile": 6.21371,
-    "count": "1"
-  },
-  {
-    "club_id": "155681",
-    "name": "Amyོ ..",
-    "mile": 6.027298699999999,
-    "count": "1"
-  },
-  {
-    "club_id": "155681",
-    "name": "Penglin H.",
-    "mile": 6.027298699999999,
-    "count": "1"
-  },
-  {
-    "club_id": "155681",
-    "name": "Chris C.",
-    "mile": 5.9651616,
-    "count": "1"
-  },
-  {
-    "club_id": "484248",
-    "name": "Minnie Z.",
-    "mile": 5.9651616,
-    "count": "1"
-  },
-  {
-    "club_id": "155681",
-    "name": "Qiang M.",
-    "mile": 5.9651616,
-    "count": "1"
-  },
-  {
-    "club_id": "155681",
-    "name": "Sunny Y.",
-    "mile": 5.9651616,
     "count": "1"
   }
 ]
