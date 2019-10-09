@@ -6,6 +6,12 @@
     "count": "4"
   },
   {
+    "club_id": "155681",
+    "name": "Yong J.",
+    "mile": 28.520928899999998,
+    "count": "6"
+  },
+  {
     "club_id": "229749",
     "name": "jiangtao l.",
     "mile": 28.396654700000003,
@@ -22,12 +28,6 @@
     "name": "Guodong P.",
     "mile": 26.470404600000002,
     "count": "2"
-  },
-  {
-    "club_id": "155681",
-    "name": "Yong J.",
-    "mile": 26.035444899999998,
-    "count": "5"
   },
   {
     "club_id": "484248",
@@ -198,6 +198,12 @@
     "count": "3"
   },
   {
+    "club_id": "523430",
+    "name": "Jesse L.",
+    "mile": 12.5516942,
+    "count": "1"
+  },
+  {
     "club_id": "155681",
     "name": "Gwen蓬 L.",
     "mile": 12.1167345,
@@ -210,6 +216,12 @@
     "count": "2"
   },
   {
+    "club_id": "523430",
+    "name": "Qingmei B.",
+    "mile": 11.6196377,
+    "count": "3"
+  },
+  {
     "club_id": "229749",
     "name": "Shengxi D.",
     "mile": 11.433226399999999,
@@ -218,6 +230,12 @@
   {
     "club_id": "155681",
     "name": "GuardPeace H.",
+    "mile": 11.184678,
+    "count": "2"
+  },
+  {
+    "club_id": "523430",
+    "name": "lin y.",
     "mile": 11.184678,
     "count": "2"
   },
@@ -279,24 +297,6 @@
     "club_id": "229749",
     "name": "Yiting D.",
     "mile": 9.941936,
-    "count": "2"
-  },
-  {
-    "club_id": "229749",
-    "name": "劲松 彭.",
-    "mile": 9.941936,
-    "count": "2"
-  },
-  {
-    "club_id": "523430",
-    "name": "Kevin L.",
-    "mile": 9.8176618,
-    "count": "5"
-  },
-  {
-    "club_id": "155681",
-    "name": "Pingshan W.",
-    "mile": 9.6312505,
     "count": "2"
   }
 ]
