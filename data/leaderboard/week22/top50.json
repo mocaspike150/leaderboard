@@ -6,12 +6,6 @@
     "count": "8"
   },
   {
-    "club_id": "155681",
-    "name": "Yong J.",
-    "mile": 43.558107099999994,
-    "count": "8"
-  },
-  {
     "club_id": "229749",
     "name": "Jun Z.",
     "mile": 43.1852845,
@@ -25,15 +19,15 @@
   },
   {
     "club_id": "155681",
-    "name": "Penglin H.",
-    "mile": 38.9599617,
+    "name": "Bryan H.",
+    "mile": 36.3502035,
     "count": "3"
   },
   {
     "club_id": "155681",
-    "name": "Bryan H.",
-    "mile": 36.3502035,
-    "count": "3"
+    "name": "Yong J.",
+    "mile": 33.554034,
+    "count": "7"
   },
   {
     "club_id": "229749",
@@ -52,6 +46,12 @@
     "name": "Peng Z.",
     "mile": 30.0743564,
     "count": "4"
+  },
+  {
+    "club_id": "484248",
+    "name": "haiyi z.",
+    "mile": 28.3345176,
+    "count": "5"
   },
   {
     "club_id": "155681",
@@ -121,12 +121,6 @@
   },
   {
     "club_id": "484248",
-    "name": "haiyi z.",
-    "mile": 23.0528641,
-    "count": "4"
-  },
-  {
-    "club_id": "484248",
     "name": "Zuo Z.",
     "mile": 22.6800415,
     "count": "4"
@@ -184,6 +178,12 @@
     "name": "Dai G.",
     "mile": 19.3867752,
     "count": "4"
+  },
+  {
+    "club_id": "438046",
+    "name": "Hongzhe L.",
+    "mile": 19.0760897,
+    "count": "3"
   },
   {
     "club_id": "523430",
@@ -252,12 +252,6 @@
     "count": "2"
   },
   {
-    "club_id": "155681",
-    "name": "Jack L.",
-    "mile": 17.274113800000002,
-    "count": "2"
-  },
-  {
     "club_id": "229749",
     "name": "Dongyang L.",
     "mile": 16.9634283,
@@ -297,6 +291,12 @@
     "club_id": "229749",
     "name": "Hong G.",
     "mile": 16.2799202,
+    "count": "2"
+  },
+  {
+    "club_id": "438046",
+    "name": "Ling H.",
+    "mile": 16.0935089,
     "count": "2"
   }
 ]
