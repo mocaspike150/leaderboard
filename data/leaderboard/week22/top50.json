@@ -127,6 +127,12 @@
   },
   {
     "club_id": "229749",
+    "name": "Hongzhe L.",
+    "mile": 27.5267353,
+    "count": "4"
+  },
+  {
+    "club_id": "229749",
     "name": "Haiguang C.",
     "mile": 27.4645982,
     "count": "3"
@@ -291,12 +297,6 @@
     "club_id": "229749",
     "name": "Song W.",
     "mile": 21.1887511,
-    "count": "2"
-  },
-  {
-    "club_id": "229749",
-    "name": "Wei H.",
-    "mile": 21.0644769,
     "count": "2"
   }
 ]
