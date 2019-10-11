@@ -14,8 +14,8 @@
   {
     "club_id": "229749",
     "name": "jiangtao l.",
-    "mile": 54.2456883,
-    "count": "9"
+    "mile": 56.1719384,
+    "count": "10"
   },
   {
     "club_id": "438046",
@@ -142,6 +142,12 @@
     "name": "Haiguang C.",
     "mile": 27.4645982,
     "count": "3"
+  },
+  {
+    "club_id": "438046",
+    "name": "kai w.",
+    "mile": 27.4024611,
+    "count": "4"
   },
   {
     "club_id": "229749",
@@ -292,11 +298,5 @@
     "name": "Xiao L.",
     "mile": 22.6179044,
     "count": "4"
-  },
-  {
-    "club_id": "155681",
-    "name": "Lu S.",
-    "mile": 22.182944700000004,
-    "count": "8"
   }
 ]
