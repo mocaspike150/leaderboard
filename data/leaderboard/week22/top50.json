@@ -157,6 +157,12 @@
   },
   {
     "club_id": "155681",
+    "name": "Daolin T.",
+    "mile": 26.2839933,
+    "count": "2"
+  },
+  {
+    "club_id": "155681",
     "name": "Pinghai H.",
     "mile": 26.035444899999998,
     "count": "3"
@@ -290,12 +296,6 @@
   {
     "club_id": "229749",
     "name": "Wei H.",
-    "mile": 21.0644769,
-    "count": "2"
-  },
-  {
-    "club_id": "523430",
-    "name": "Yale Y.",
     "mile": 21.0644769,
     "count": "2"
   }
