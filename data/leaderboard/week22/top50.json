@@ -120,6 +120,12 @@
     "count": "3"
   },
   {
+    "club_id": "155681",
+    "name": "Weigang L.",
+    "mile": 32.932663,
+    "count": "5"
+  },
+  {
     "club_id": "229749",
     "name": "Haiyong L.",
     "mile": 32.2491549,
@@ -238,12 +244,6 @@
     "name": "Lufeng Z.",
     "mile": 26.718953,
     "count": "8"
-  },
-  {
-    "club_id": "155681",
-    "name": "Weigang L.",
-    "mile": 26.718953,
-    "count": "4"
   },
   {
     "club_id": "155681",
