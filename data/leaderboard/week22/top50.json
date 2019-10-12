@@ -24,6 +24,18 @@
     "count": "6"
   },
   {
+    "club_id": "229749",
+    "name": "Pengxiang Y.",
+    "mile": 65.9274631,
+    "count": "9"
+  },
+  {
+    "club_id": "229749",
+    "name": "Peng Z.",
+    "mile": 63.504116200000006,
+    "count": "8"
+  },
+  {
     "club_id": "155681",
     "name": "Bryan H.",
     "mile": 61.515729,
@@ -33,18 +45,6 @@
     "club_id": "155681",
     "name": "SK M.",
     "mile": 61.453591900000006,
-    "count": "7"
-  },
-  {
-    "club_id": "229749",
-    "name": "Pengxiang Y.",
-    "mile": 60.3972612,
-    "count": "8"
-  },
-  {
-    "club_id": "229749",
-    "name": "Peng Z.",
-    "mile": 57.3525433,
     "count": "7"
   },
   {
@@ -180,6 +180,12 @@
     "count": "3"
   },
   {
+    "club_id": "229749",
+    "name": "Haiguang C.",
+    "mile": 40.2648408,
+    "count": "5"
+  },
+  {
     "club_id": "523430",
     "name": "Qingmei B.",
     "mile": 40.2648408,
@@ -267,12 +273,6 @@
     "club_id": "229749",
     "name": "Chang L.",
     "mile": 33.8647195,
-    "count": "4"
-  },
-  {
-    "club_id": "229749",
-    "name": "Haiguang C.",
-    "mile": 33.7404453,
     "count": "4"
   },
   {
