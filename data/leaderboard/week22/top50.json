@@ -1,5 +1,11 @@
 [
   {
+    "club_id": "229749",
+    "name": "jiangtao l.",
+    "mile": 95.3804485,
+    "count": "13"
+  },
+  {
     "club_id": "155681",
     "name": "Yong J.",
     "mile": 93.0813758,
@@ -9,12 +15,6 @@
     "club_id": "229749",
     "name": "Jun Z.",
     "mile": 84.9414157,
-    "count": "11"
-  },
-  {
-    "club_id": "229749",
-    "name": "jiangtao l.",
-    "mile": 82.51806880000001,
     "count": "11"
   },
   {
