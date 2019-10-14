@@ -199,6 +199,12 @@
   },
   {
     "club_id": "183643",
+    "name": "Jimmy X.",
+    "mile": 41.5697199,
+    "count": "5"
+  },
+  {
+    "club_id": "183643",
     "name": "Yan L.",
     "mile": 41.1347602,
     "count": "6"
@@ -282,21 +288,15 @@
     "count": "5"
   },
   {
+    "club_id": "183643",
+    "name": "Ji Q.",
+    "mile": 35.9152438,
+    "count": "5"
+  },
+  {
     "club_id": "327007",
     "name": "Charlie L.",
     "mile": 35.6666954,
     "count": "6"
-  },
-  {
-    "club_id": "183643",
-    "name": "Nadia L.",
-    "mile": 35.6666954,
-    "count": "4"
-  },
-  {
-    "club_id": "183643",
-    "name": "Jimmy X.",
-    "mile": 35.5424212,
-    "count": "4"
   }
 ]
