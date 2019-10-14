@@ -31,6 +31,12 @@
   },
   {
     "club_id": "327007",
+    "name": "B. C.",
+    "mile": 7.8292746,
+    "count": "2"
+  },
+  {
+    "club_id": "327007",
     "name": "Michelle J.",
     "mile": 7.4564520000000005,
     "count": "1"
@@ -62,6 +68,12 @@
   {
     "club_id": "183643",
     "name": "ren G.",
+    "mile": 6.21371,
+    "count": "1"
+  },
+  {
+    "club_id": "327007",
+    "name": "寓刚 田.",
     "mile": 6.21371,
     "count": "1"
   },
@@ -138,15 +150,15 @@
     "count": "1"
   },
   {
-    "club_id": "183643",
-    "name": "Sean P.",
+    "club_id": "327007",
+    "name": "Minnie Z.",
     "mile": 4.970968,
     "count": "1"
   },
   {
-    "club_id": "327007",
-    "name": "B. C.",
-    "mile": 4.7224196,
+    "club_id": "183643",
+    "name": "Sean P.",
+    "mile": 4.970968,
     "count": "1"
   },
   {
