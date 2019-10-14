@@ -204,6 +204,12 @@
     "count": "1"
   },
   {
+    "club_id": "327007",
+    "name": "Randy H.",
+    "mile": 3.9767744,
+    "count": "1"
+  },
+  {
     "club_id": "183643",
     "name": "Huan H.",
     "mile": 3.2311292000000003,
@@ -243,6 +249,12 @@
     "club_id": "183643",
     "name": "Lei W.",
     "mile": 1.9883872,
+    "count": "1"
+  },
+  {
+    "club_id": "327007",
+    "name": "Tina B Y.",
+    "mile": 1.7398388,
     "count": "1"
   },
   {
