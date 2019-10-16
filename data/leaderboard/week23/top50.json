@@ -1,5 +1,11 @@
 [
   {
+    "club_id": "183643",
+    "name": "Yi H.",
+    "mile": 27.899557899999998,
+    "count": "3"
+  },
+  {
     "club_id": "327007",
     "name": "Peng Z.",
     "mile": 27.0296385,
@@ -31,9 +37,9 @@
   },
   {
     "club_id": "183643",
-    "name": "Yi H.",
-    "mile": 22.5557673,
-    "count": "2"
+    "name": "Yan L.",
+    "mile": 22.0586705,
+    "count": "4"
   },
   {
     "club_id": "327007",
@@ -66,10 +72,10 @@
     "count": "3"
   },
   {
-    "club_id": "183643",
-    "name": "Yan L.",
-    "mile": 16.652742800000002,
-    "count": "3"
+    "club_id": "327007",
+    "name": "Mandy W.",
+    "mile": 16.7148799,
+    "count": "5"
   },
   {
     "club_id": "327007",
@@ -112,12 +118,6 @@
     "name": "@ D.",
     "mile": 14.1051217,
     "count": "3"
-  },
-  {
-    "club_id": "327007",
-    "name": "Mandy W.",
-    "mile": 14.0429846,
-    "count": "4"
   },
   {
     "club_id": "183643",
@@ -210,6 +210,12 @@
     "count": "2"
   },
   {
+    "club_id": "519388",
+    "name": "Helen W.",
+    "mile": 10.749718300000001,
+    "count": "2"
+  },
+  {
     "club_id": "327007",
     "name": "Jerry L.",
     "mile": 10.749718300000001,
@@ -231,6 +237,12 @@
     "club_id": "196102",
     "name": "Wenyuan Z.",
     "mile": 10.3768957,
+    "count": "2"
+  },
+  {
+    "club_id": "183643",
+    "name": "Jianguo L.",
+    "mile": 10.314758600000001,
     "count": "2"
   },
   {
@@ -259,6 +271,12 @@
   },
   {
     "club_id": "327007",
+    "name": "Sammi G.",
+    "mile": 9.320565,
+    "count": "2"
+  },
+  {
+    "club_id": "327007",
     "name": "James W.",
     "mile": 9.258427900000001,
     "count": "2"
@@ -280,23 +298,5 @@
     "name": "Julia X.",
     "mile": 8.5749198,
     "count": "1"
-  },
-  {
-    "club_id": "183643",
-    "name": "Chang L.",
-    "mile": 8.4506456,
-    "count": "2"
-  },
-  {
-    "club_id": "327007",
-    "name": "jing h.",
-    "mile": 8.4506456,
-    "count": "2"
-  },
-  {
-    "club_id": "327007",
-    "name": "Kevin L.",
-    "mile": 8.326371400000001,
-    "count": "2"
   }
 ]
