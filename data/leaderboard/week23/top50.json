@@ -13,6 +13,12 @@
   },
   {
     "club_id": "327007",
+    "name": "Jing W.",
+    "mile": 38.0279052,
+    "count": "4"
+  },
+  {
+    "club_id": "327007",
     "name": "Joanna Z.",
     "mile": 35.1074615,
     "count": "3"
@@ -28,12 +34,6 @@
     "name": "Richard Y.",
     "mile": 31.4413726,
     "count": "4"
-  },
-  {
-    "club_id": "327007",
-    "name": "Jing W.",
-    "mile": 28.8937515,
-    "count": "3"
   },
   {
     "club_id": "327007",
@@ -66,6 +66,12 @@
     "count": "3"
   },
   {
+    "club_id": "327007",
+    "name": "B. C.",
+    "mile": 24.9169771,
+    "count": "5"
+  },
+  {
     "club_id": "183643",
     "name": "Quin Y.",
     "mile": 24.668428700000003,
@@ -88,6 +94,12 @@
     "name": "Nadia L.",
     "mile": 22.4314931,
     "count": "5"
+  },
+  {
+    "club_id": "327007",
+    "name": "john c.",
+    "mile": 22.369356,
+    "count": "3"
   },
   {
     "club_id": "327007",
@@ -145,8 +157,14 @@
   },
   {
     "club_id": "327007",
-    "name": "B. C.",
-    "mile": 17.895484800000002,
+    "name": "Christine Y.",
+    "mile": 18.5789929,
+    "count": "3"
+  },
+  {
+    "club_id": "327007",
+    "name": "Jerry L.",
+    "mile": 18.268307399999998,
     "count": "4"
   },
   {
@@ -198,12 +216,6 @@
     "count": "2"
   },
   {
-    "club_id": "327007",
-    "name": "Jerry L.",
-    "mile": 15.0993153,
-    "count": "3"
-  },
-  {
     "club_id": "183643",
     "name": "Ji Q.",
     "mile": 15.0993153,
@@ -226,12 +238,6 @@
     "name": "Li D.",
     "mile": 14.2293959,
     "count": "3"
-  },
-  {
-    "club_id": "327007",
-    "name": "john c.",
-    "mile": 14.2293959,
-    "count": "2"
   },
   {
     "club_id": "519388",
@@ -259,12 +265,6 @@
   },
   {
     "club_id": "327007",
-    "name": "Christine Y.",
-    "mile": 12.8623797,
-    "count": "2"
-  },
-  {
-    "club_id": "327007",
     "name": "Charlie L.",
     "mile": 12.675968399999999,
     "count": "2"
@@ -282,6 +282,12 @@
     "count": "2"
   },
   {
+    "club_id": "327007",
+    "name": "Joey Y.",
+    "mile": 12.4895571,
+    "count": "2"
+  },
+  {
     "club_id": "183643",
     "name": "Yiyong Z.",
     "mile": 12.4895571,
@@ -291,12 +297,6 @@
     "club_id": "183643",
     "name": "Han W.",
     "mile": 12.365282899999999,
-    "count": "2"
-  },
-  {
-    "club_id": "183643",
-    "name": "mao Z.",
-    "mile": 11.992460300000001,
     "count": "2"
   }
 ]
