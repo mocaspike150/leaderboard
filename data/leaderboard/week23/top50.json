@@ -67,6 +67,12 @@
   },
   {
     "club_id": "183643",
+    "name": "David H.",
+    "mile": 20.629517200000002,
+    "count": "3"
+  },
+  {
+    "club_id": "183643",
     "name": "Quanxin X.",
     "mile": 19.4489123,
     "count": "3"
@@ -165,12 +171,6 @@
     "club_id": "183643",
     "name": "Ying J.",
     "mile": 14.4779443,
-    "count": "2"
-  },
-  {
-    "club_id": "183643",
-    "name": "David H.",
-    "mile": 14.4158072,
     "count": "2"
   },
   {
