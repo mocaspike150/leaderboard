@@ -1,5 +1,11 @@
 [
   {
+    "club_id": "183643",
+    "name": "橙橙 S.",
+    "mile": 36.2259293,
+    "count": "5"
+  },
+  {
     "club_id": "327007",
     "name": "Jing W.",
     "mile": 28.8937515,
@@ -30,12 +36,6 @@
     "count": "2"
   },
   {
-    "club_id": "183643",
-    "name": "橙橙 S.",
-    "mile": 25.911170700000003,
-    "count": "4"
-  },
-  {
     "club_id": "327007",
     "name": "Frank L.",
     "mile": 25.5383481,
@@ -46,6 +46,12 @@
     "name": "Stephen G.",
     "mile": 23.2392754,
     "count": "2"
+  },
+  {
+    "club_id": "183643",
+    "name": "Nadia L.",
+    "mile": 22.4314931,
+    "count": "5"
   },
   {
     "club_id": "183643",
@@ -70,6 +76,12 @@
     "name": "Joseph B.",
     "mile": 19.262501,
     "count": "2"
+  },
+  {
+    "club_id": "183643",
+    "name": "Hongmei L.",
+    "mile": 18.7032671,
+    "count": "3"
   },
   {
     "club_id": "327007",
@@ -138,12 +150,6 @@
     "count": "2"
   },
   {
-    "club_id": "183643",
-    "name": "Nadia L.",
-    "mile": 15.9692347,
-    "count": "4"
-  },
-  {
     "club_id": "327007",
     "name": "Jerry L.",
     "mile": 15.0993153,
@@ -165,6 +171,12 @@
     "club_id": "183643",
     "name": "David H.",
     "mile": 14.4158072,
+    "count": "2"
+  },
+  {
+    "club_id": "327007",
+    "name": "john c.",
+    "mile": 14.2293959,
     "count": "2"
   },
   {
@@ -204,12 +216,6 @@
     "count": "3"
   },
   {
-    "club_id": "183643",
-    "name": "Hongmei L.",
-    "mile": 12.613831300000001,
-    "count": "2"
-  },
-  {
     "club_id": "327007",
     "name": "Shanshan F.",
     "mile": 12.5516942,
@@ -231,6 +237,12 @@
     "club_id": "183643",
     "name": "Doris P.",
     "mile": 12.42742,
+    "count": "2"
+  },
+  {
+    "club_id": "183643",
+    "name": "mao Z.",
+    "mile": 11.992460300000001,
     "count": "2"
   },
   {
@@ -286,17 +298,5 @@
     "name": "Howard G.",
     "mile": 10.9982667,
     "count": "1"
-  },
-  {
-    "club_id": "327007",
-    "name": "Qian Z.",
-    "mile": 10.9982667,
-    "count": "1"
-  },
-  {
-    "club_id": "183643",
-    "name": "Gary C.",
-    "mile": 10.811855399999999,
-    "count": "2"
   }
 ]
