@@ -14,8 +14,20 @@
   {
     "club_id": "327007",
     "name": "Jing W.",
-    "mile": 46.230002400000004,
+    "mile": 53.313631799999996,
+    "count": "6"
+  },
+  {
+    "club_id": "327007",
+    "name": "Michelle J.",
+    "mile": 48.5290751,
     "count": "5"
+  },
+  {
+    "club_id": "327007",
+    "name": "Ann Y.",
+    "mile": 43.6202442,
+    "count": "9"
   },
   {
     "club_id": "327007",
@@ -27,6 +39,12 @@
     "club_id": "183643",
     "name": "Quanxin X.",
     "mile": 41.072623099999994,
+    "count": "5"
+  },
+  {
+    "club_id": "183643",
+    "name": "Lin Q.",
+    "mile": 40.2027037,
     "count": "5"
   },
   {
@@ -48,12 +66,6 @@
     "count": "5"
   },
   {
-    "club_id": "327007",
-    "name": "Ann Y.",
-    "mile": 37.5929455,
-    "count": "8"
-  },
-  {
     "club_id": "183643",
     "name": "Bangwu J.",
     "mile": 37.033711600000004,
@@ -61,15 +73,21 @@
   },
   {
     "club_id": "327007",
-    "name": "Michelle J.",
-    "mile": 36.2259293,
-    "count": "4"
-  },
-  {
-    "club_id": "327007",
     "name": "Joanna Z.",
     "mile": 35.1074615,
     "count": "3"
+  },
+  {
+    "club_id": "183643",
+    "name": "Jimmy X.",
+    "mile": 35.0453244,
+    "count": "5"
+  },
+  {
+    "club_id": "183643",
+    "name": "Qing C.",
+    "mile": 34.9831873,
+    "count": "4"
   },
   {
     "club_id": "183643",
@@ -85,9 +103,9 @@
   },
   {
     "club_id": "183643",
-    "name": "Qing C.",
-    "mile": 33.1190743,
-    "count": "3"
+    "name": "Nadia L.",
+    "mile": 33.678308200000004,
+    "count": "9"
   },
   {
     "club_id": "183643",
@@ -97,9 +115,9 @@
   },
   {
     "club_id": "183643",
-    "name": "Lin Q.",
-    "mile": 32.3734291,
-    "count": "4"
+    "name": "Jianguo L.",
+    "mile": 32.062743600000005,
+    "count": "5"
   },
   {
     "club_id": "196102",
@@ -114,12 +132,6 @@
     "count": "3"
   },
   {
-    "club_id": "183643",
-    "name": "Nadia L.",
-    "mile": 30.5714532,
-    "count": "8"
-  },
-  {
     "club_id": "327007",
     "name": "David W.",
     "mile": 30.012219299999998,
@@ -127,8 +139,20 @@
   },
   {
     "club_id": "327007",
+    "name": "Mandy W.",
+    "mile": 29.7636709,
+    "count": "8"
+  },
+  {
+    "club_id": "327007",
     "name": "Stephen G.",
     "mile": 29.7015338,
+    "count": "3"
+  },
+  {
+    "club_id": "327007",
+    "name": "Junming Y.",
+    "mile": 29.3287112,
     "count": "3"
   },
   {
@@ -162,6 +186,12 @@
     "count": "4"
   },
   {
+    "club_id": "183643",
+    "name": "Xiaodong G.",
+    "mile": 25.5383481,
+    "count": "5"
+  },
+  {
     "club_id": "327007",
     "name": "Jian Z.",
     "mile": 25.351936799999997,
@@ -180,10 +210,10 @@
     "count": "6"
   },
   {
-    "club_id": "183643",
-    "name": "Jimmy X.",
+    "club_id": "327007",
+    "name": "Amy K.",
     "mile": 25.0412513,
-    "count": "4"
+    "count": "6"
   },
   {
     "club_id": "183643",
@@ -196,12 +226,6 @@
     "name": "Jessie X.",
     "mile": 24.9791142,
     "count": "4"
-  },
-  {
-    "club_id": "327007",
-    "name": "Mandy W.",
-    "mile": 24.730565799999997,
-    "count": "7"
   },
   {
     "club_id": "183643",
@@ -219,12 +243,6 @@
     "club_id": "196102",
     "name": "Wei L.",
     "mile": 24.233469,
-    "count": "4"
-  },
-  {
-    "club_id": "183643",
-    "name": "Jianguo L.",
-    "mile": 23.8606464,
     "count": "4"
   },
   {
@@ -258,6 +276,12 @@
     "count": "3"
   },
   {
+    "club_id": "519388",
+    "name": "Julia Z.",
+    "mile": 22.493630200000002,
+    "count": "4"
+  },
+  {
     "club_id": "183643",
     "name": "Han W.",
     "mile": 22.369356,
@@ -274,29 +298,5 @@
     "name": "Shen W.",
     "mile": 22.0586705,
     "count": "4"
-  },
-  {
-    "club_id": "183643",
-    "name": "Faye H.",
-    "mile": 21.002339799999998,
-    "count": "4"
-  },
-  {
-    "club_id": "183643",
-    "name": "Ying J.",
-    "mile": 20.815928500000002,
-    "count": "3"
-  },
-  {
-    "club_id": "196102",
-    "name": "Zhiliang H.",
-    "mile": 20.629517200000002,
-    "count": "3"
-  },
-  {
-    "club_id": "183643",
-    "name": "Doris P.",
-    "mile": 20.5673801,
-    "count": "3"
   }
 ]
