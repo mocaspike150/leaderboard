@@ -6,6 +6,12 @@
     "count": "11"
   },
   {
+    "club_id": "327007",
+    "name": "Jing W.",
+    "mile": 73.5703264,
+    "count": "7"
+  },
+  {
     "club_id": "183643",
     "name": "Yi H.",
     "mile": 72.8868183,
@@ -43,14 +49,14 @@
   },
   {
     "club_id": "183643",
-    "name": "Lin Q.",
-    "mile": 53.437906,
-    "count": "6"
+    "name": "Nadia L.",
+    "mile": 53.7485915,
+    "count": "10"
   },
   {
-    "club_id": "327007",
-    "name": "Jing W.",
-    "mile": 53.313631799999996,
+    "club_id": "183643",
+    "name": "Lin Q.",
+    "mile": 53.437906,
     "count": "6"
   },
   {
@@ -144,15 +150,33 @@
     "count": "6"
   },
   {
+    "club_id": "519388",
+    "name": "Helen W.",
+    "mile": 40.948348900000006,
+    "count": "5"
+  },
+  {
     "club_id": "183643",
     "name": "Gary C.",
     "mile": 40.8862118,
     "count": "6"
   },
   {
+    "club_id": "183643",
+    "name": "David H.",
+    "mile": 40.761937599999996,
+    "count": "7"
+  },
+  {
     "club_id": "327007",
     "name": "Samantha W.",
     "mile": 40.5133892,
+    "count": "5"
+  },
+  {
+    "club_id": "183643",
+    "name": "Liangtao Z.",
+    "mile": 39.0842359,
     "count": "5"
   },
   {
@@ -253,6 +277,12 @@
   },
   {
     "club_id": "327007",
+    "name": "Renny S.",
+    "mile": 34.9210502,
+    "count": "5"
+  },
+  {
+    "club_id": "327007",
     "name": "Charlie L.",
     "mile": 34.610364700000005,
     "count": "3"
@@ -264,39 +294,9 @@
     "count": "4"
   },
   {
-    "club_id": "183643",
-    "name": "David H.",
-    "mile": 34.548227600000004,
-    "count": "6"
-  },
-  {
     "club_id": "327007",
     "name": "Hui Z.",
     "mile": 34.2996792,
     "count": "3"
-  },
-  {
-    "club_id": "196102",
-    "name": "Wei L.",
-    "mile": 34.175405,
-    "count": "5"
-  },
-  {
-    "club_id": "183643",
-    "name": "Ying J.",
-    "mile": 34.1132679,
-    "count": "4"
-  },
-  {
-    "club_id": "183643",
-    "name": "Ji Q.",
-    "mile": 33.9268566,
-    "count": "5"
-  },
-  {
-    "club_id": "183643",
-    "name": "Nadia L.",
-    "mile": 33.678308200000004,
-    "count": "9"
   }
 ]
