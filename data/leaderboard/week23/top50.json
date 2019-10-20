@@ -31,6 +31,12 @@
   },
   {
     "club_id": "327007",
+    "name": "Peng Z.",
+    "mile": 58.036051400000005,
+    "count": "8"
+  },
+  {
+    "club_id": "327007",
     "name": "Frank L.",
     "mile": 56.1719384,
     "count": "10"
@@ -52,6 +58,12 @@
     "name": "Nadia L.",
     "mile": 53.7485915,
     "count": "10"
+  },
+  {
+    "club_id": "183643",
+    "name": "David H.",
+    "mile": 53.6864544,
+    "count": "8"
   },
   {
     "club_id": "183643",
@@ -115,12 +127,6 @@
   },
   {
     "club_id": "327007",
-    "name": "Peng Z.",
-    "mile": 43.0610103,
-    "count": "6"
-  },
-  {
-    "club_id": "327007",
     "name": "Minnie Z.",
     "mile": 42.5639135,
     "count": "8"
@@ -166,12 +172,6 @@
     "name": "Gary C.",
     "mile": 40.8862118,
     "count": "6"
-  },
-  {
-    "club_id": "183643",
-    "name": "David H.",
-    "mile": 40.761937599999996,
-    "count": "7"
   },
   {
     "club_id": "327007",
