@@ -1,6 +1,12 @@
 [
   {
     "club_id": "302045",
+    "name": "Jay J.",
+    "mile": 4.4738712000000005,
+    "count": "1"
+  },
+  {
+    "club_id": "302045",
     "name": "Allie W.",
     "mile": 2.9825808,
     "count": "1"
@@ -9,6 +15,12 @@
     "club_id": "302045",
     "name": "Junyi W.",
     "mile": 2.6718953,
+    "count": "1"
+  },
+  {
+    "club_id": "302045",
+    "name": "AmazingLi K.",
+    "mile": 0,
     "count": "1"
   }
 ]
