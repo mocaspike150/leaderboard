@@ -240,6 +240,12 @@
     "count": "1"
   },
   {
+    "club_id": "142275",
+    "name": "Sean L.",
+    "mile": 7.0214923,
+    "count": "1"
+  },
+  {
     "club_id": "128445",
     "name": "William Z.",
     "mile": 7.0214923,
@@ -290,12 +296,6 @@
   {
     "club_id": "128445",
     "name": "Chen-Hung W.",
-    "mile": 6.2758471,
-    "count": "1"
-  },
-  {
-    "club_id": "128445",
-    "name": "Michael T.",
     "mile": 6.2758471,
     "count": "1"
   }
