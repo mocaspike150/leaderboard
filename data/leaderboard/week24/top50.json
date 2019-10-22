@@ -180,12 +180,6 @@
     "count": "1"
   },
   {
-    "club_id": "142275",
-    "name": "孙炎 - Yan S.",
-    "mile": 8.2642343,
-    "count": "1"
-  },
-  {
     "club_id": "128445",
     "name": "Sean L.",
     "mile": 8.077823,
@@ -297,6 +291,12 @@
     "club_id": "128445",
     "name": "William Z.",
     "mile": 7.0214923,
+    "count": "1"
+  },
+  {
+    "club_id": "142275",
+    "name": "Xueqi C.",
+    "mile": 6.9593552,
     "count": "1"
   }
 ]
