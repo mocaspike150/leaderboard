@@ -30,12 +30,6 @@
     "count": "2"
   },
   {
-    "club_id": "142275",
-    "name": "Xuan Z.",
-    "mile": 13.7944362,
-    "count": "2"
-  },
-  {
     "club_id": "302045",
     "name": "Korey C.",
     "mile": 12.986653899999999,
@@ -181,7 +175,7 @@
   },
   {
     "club_id": "302045",
-    "name": "Junyi W.",
+    "name": "macro c.",
     "mile": 9.6933876,
     "count": "4"
   },
@@ -298,5 +292,11 @@
     "name": "Mingzhou N.",
     "mile": 8.1399601,
     "count": "1"
+  },
+  {
+    "club_id": "128445",
+    "name": "Bruin1996 R.",
+    "mile": 8.077823,
+    "count": "2"
   }
 ]
