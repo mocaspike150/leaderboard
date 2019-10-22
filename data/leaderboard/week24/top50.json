@@ -6,6 +6,12 @@
     "count": "2"
   },
   {
+    "club_id": "147066",
+    "name": "北美 李.",
+    "mile": 20.629517200000002,
+    "count": "2"
+  },
+  {
     "club_id": "142275",
     "name": "Tiebin L.",
     "mile": 17.1498396,
@@ -291,12 +297,6 @@
     "club_id": "147066",
     "name": "Xiaosong G.",
     "mile": 9.0098795,
-    "count": "1"
-  },
-  {
-    "club_id": "128445",
-    "name": "Shanshan L.",
-    "mile": 8.947742400000001,
     "count": "1"
   }
 ]
