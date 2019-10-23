@@ -48,6 +48,12 @@
     "count": "2"
   },
   {
+    "club_id": "302045",
+    "name": "Tony L.",
+    "mile": 19.0139526,
+    "count": "2"
+  },
+  {
     "club_id": "128445",
     "name": "Baiji H.",
     "mile": 18.1440332,
@@ -292,11 +298,5 @@
     "name": "Kevin L.",
     "mile": 12.675968399999999,
     "count": "1"
-  },
-  {
-    "club_id": "302045",
-    "name": "Jay J.",
-    "mile": 12.4895571,
-    "count": "2"
   }
 ]
