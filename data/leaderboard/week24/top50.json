@@ -48,6 +48,12 @@
     "count": "3"
   },
   {
+    "club_id": "142275",
+    "name": "Guangzhen X.",
+    "mile": 21.3130253,
+    "count": "2"
+  },
+  {
     "club_id": "147066",
     "name": "北美 李.",
     "mile": 20.629517200000002,
@@ -291,12 +297,6 @@
     "club_id": "128445",
     "name": "Pei L.",
     "mile": 14.9750411,
-    "count": "2"
-  },
-  {
-    "club_id": "128445",
-    "name": "Yingxin S.",
-    "mile": 14.7886298,
     "count": "2"
   }
 ]
