@@ -72,6 +72,12 @@
     "count": "2"
   },
   {
+    "club_id": "142275",
+    "name": "Frank S.",
+    "mile": 17.646936399999998,
+    "count": "2"
+  },
+  {
     "club_id": "128445",
     "name": "Huazhuo X.",
     "mile": 17.646936399999998,
@@ -130,6 +136,12 @@
     "name": "Shuangjiang L.",
     "mile": 16.155646,
     "count": "2"
+  },
+  {
+    "club_id": "302045",
+    "name": "David W.",
+    "mile": 16.031371800000002,
+    "count": "3"
   },
   {
     "club_id": "128445",
@@ -286,17 +298,5 @@
     "name": "Jay J.",
     "mile": 12.4895571,
     "count": "2"
-  },
-  {
-    "club_id": "128445",
-    "name": "Simon C.",
-    "mile": 12.303145800000001,
-    "count": "2"
-  },
-  {
-    "club_id": "128445",
-    "name": "Michael Z.",
-    "mile": 12.1788716,
-    "count": "3"
   }
 ]
