@@ -85,7 +85,10 @@ latest: collect
 	node bin/latest.js 519388
 	node bin/latest.js 523430
 	node bin/latest.js 523602
+
 	curl https://raw.githubusercontent.com/mocaspike150/lab/master/docs/leaderboard/128445.html > data/html/128445.html
+	curl https://raw.githubusercontent.com/mocaspike150/lab/master/docs/leaderboard/204946.html > data/html/204946.html
+	curl https://raw.githubusercontent.com/mocaspike150/lab/master/docs/leaderboard/72363.html > data/html/72363.html
 
 	git add data/html
 	git commit -m 'update latest html by Makefile' | true
