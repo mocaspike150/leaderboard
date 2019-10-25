@@ -132,6 +132,18 @@
     "count": "4"
   },
   {
+    "club_id": "142275",
+    "name": "Teresa S.",
+    "mile": 34.2375421,
+    "count": "5"
+  },
+  {
+    "club_id": "128445",
+    "name": "yujun w.",
+    "mile": 34.051130799999996,
+    "count": "4"
+  },
+  {
     "club_id": "128445",
     "name": "David Y.",
     "mile": 33.9889937,
@@ -286,17 +298,5 @@
     "name": "Kevin G.",
     "mile": 28.2723805,
     "count": "3"
-  },
-  {
-    "club_id": "128445",
-    "name": "Jason C.",
-    "mile": 28.2102434,
-    "count": "4"
-  },
-  {
-    "club_id": "142275",
-    "name": "Teresa S.",
-    "mile": 28.2102434,
-    "count": "4"
   }
 ]
