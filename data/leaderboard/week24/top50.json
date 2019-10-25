@@ -259,6 +259,12 @@
   },
   {
     "club_id": "142275",
+    "name": "Teresa S.",
+    "mile": 28.2102434,
+    "count": "4"
+  },
+  {
+    "club_id": "142275",
     "name": "Anthony W.",
     "mile": 28.1481063,
     "count": "3"
@@ -292,11 +298,5 @@
     "name": "Alex Z 郑.",
     "mile": 27.5267353,
     "count": "4"
-  },
-  {
-    "club_id": "128445",
-    "name": "John S.",
-    "mile": 27.4024611,
-    "count": "3"
   }
 ]
