@@ -192,6 +192,12 @@
     "count": "4"
   },
   {
+    "club_id": "147066",
+    "name": "Minrong A.",
+    "mile": 32.4977033,
+    "count": "4"
+  },
+  {
     "club_id": "128445",
     "name": "Paul C.",
     "mile": 32.4977033,
@@ -292,11 +298,5 @@
     "name": "Kathy Z.",
     "mile": 28.520928899999998,
     "count": "4"
-  },
-  {
-    "club_id": "128445",
-    "name": "Kevin G.",
-    "mile": 28.2723805,
-    "count": "3"
   }
 ]
