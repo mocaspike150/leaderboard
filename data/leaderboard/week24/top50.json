@@ -282,6 +282,12 @@
     "count": "11"
   },
   {
+    "club_id": "142275",
+    "name": "Esther Y.",
+    "mile": 34.2996792,
+    "count": "5"
+  },
+  {
     "club_id": "128445",
     "name": "Eva Z.",
     "mile": 34.2375421,
@@ -292,11 +298,5 @@
     "name": "Teresa S.",
     "mile": 34.2375421,
     "count": "5"
-  },
-  {
-    "club_id": "128445",
-    "name": "CC L.",
-    "mile": 34.175405,
-    "count": "9"
   }
 ]
