@@ -73,6 +73,12 @@
   },
   {
     "club_id": "128445",
+    "name": "Yu Z.",
+    "mile": 60.5836725,
+    "count": "6"
+  },
+  {
+    "club_id": "128445",
     "name": "Shihua F.",
     "mile": 60.1487128,
     "count": "6"
@@ -82,6 +88,12 @@
     "name": "Fei W.",
     "mile": 59.651616000000004,
     "count": "7"
+  },
+  {
+    "club_id": "128445",
+    "name": "Jin W.",
+    "mile": 59.092382099999995,
+    "count": "8"
   },
   {
     "club_id": "128445",
@@ -133,6 +145,12 @@
   },
   {
     "club_id": "128445",
+    "name": "Paul C.",
+    "mile": 55.4262932,
+    "count": "10"
+  },
+  {
+    "club_id": "128445",
     "name": "Alan H.",
     "mile": 54.432099599999994,
     "count": "6"
@@ -159,12 +177,6 @@
     "club_id": "128445",
     "name": "Yousong X.",
     "mile": 51.698067200000004,
-    "count": "7"
-  },
-  {
-    "club_id": "128445",
-    "name": "Jin W.",
-    "mile": 51.0766962,
     "count": "7"
   },
   {
@@ -247,9 +259,21 @@
   },
   {
     "club_id": "128445",
+    "name": "Michael Z.",
+    "mile": 47.5348815,
+    "count": "12"
+  },
+  {
+    "club_id": "128445",
     "name": "Troy X.",
     "mile": 47.162058900000005,
     "count": "5"
+  },
+  {
+    "club_id": "128445",
+    "name": "Dong Y.",
+    "mile": 46.9135105,
+    "count": "7"
   },
   {
     "club_id": "128445",
@@ -265,38 +289,14 @@
   },
   {
     "club_id": "128445",
-    "name": "Chen-Hung W.",
-    "mile": 45.5464943,
-    "count": "8"
-  },
-  {
-    "club_id": "128445",
-    "name": "Michael Z.",
-    "mile": 45.2358088,
+    "name": "Li Y.",
+    "mile": 45.7950427,
     "count": "11"
   },
   {
-    "club_id": "147066",
-    "name": "Tian W.",
-    "mile": 45.1736717,
-    "count": "4"
-  },
-  {
     "club_id": "128445",
-    "name": "Li Y.",
-    "mile": 44.738712,
-    "count": "10"
-  },
-  {
-    "club_id": "128445",
-    "name": "Tanny W.",
-    "mile": 44.4280265,
-    "count": "7"
-  },
-  {
-    "club_id": "128445",
-    "name": "Anita C.",
-    "mile": 44.0552039,
-    "count": "6"
+    "name": "Chen-Hung W.",
+    "mile": 45.5464943,
+    "count": "8"
   }
 ]
