@@ -1,3 +1,1 @@
-TypeError: Cannot read property 'teams' of undefined
-    at /Users/runner/runners/2.159.2/work/leaderboard/leaderboard/bin/current_miles.js:19:46
-    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+195665
