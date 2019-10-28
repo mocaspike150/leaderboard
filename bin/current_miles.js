@@ -8,7 +8,6 @@ fetch(api).then(res => res.text())
      const data = JSON.parse(json)
      for(let i = 1; i < weeks_since_start + 1; i++) {
        let key = i < 10 ? `0${i}` : `${i}`
-       console.log(key, data[key].teams)
        let mile = 0;
        for(const team of data[key].teams) {
          mile += team.mile
