@@ -138,7 +138,6 @@ total:  convert
 	node bin/total.js 
 	date > data/update_time.txt
 	node bin/current_miles.js > data/current_miles.txt
-	node bin/club_ranking.js > data/club_ranking.csv
 	node bin/club_total.js > data/club_total.csv
 	node bin/club_mpr.js > data/club_mpr.csv
 	git add data/leaderboard.json

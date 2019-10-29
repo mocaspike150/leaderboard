@@ -1,3 +1,0 @@
-TypeError: Cannot read property 'teams' of undefined
-    at fetch.then.then.json (/Users/sam/github/mocaspike150/leaderboard/bin/club_ranking.js:22:46)
-    at process._tickCallback (internal/process/next_tick.js:68:7)
