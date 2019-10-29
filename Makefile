@@ -134,7 +134,7 @@ convert: latest
 	git add data/json
 	git commit -m 'update json by Makefile' | true
 	git push -u https://ontouchstart:${GITHUB_TOKEN}@github.com/mocaspike150/leaderboard master
-total: 
+total:  convert
 	node bin/total.js 
 	date > data/update_time.txt
 	node bin/current_miles.js > data/current_miles.txt
