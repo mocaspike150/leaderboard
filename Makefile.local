@@ -124,4 +124,4 @@ total:  convert
 	node bin/club_mpr.js > data/club_mpr.csv
 
 top50:
-	ode bin/currentweek_top50.js
+	node bin/currentweek_top50.js
