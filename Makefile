@@ -89,6 +89,7 @@ latest: collect
 	curl https://raw.githubusercontent.com/mocaspike150/lab/master/docs/leaderboard/128445.html > data/html/128445.html
 	curl https://raw.githubusercontent.com/mocaspike150/lab/master/docs/leaderboard/204946.html > data/html/204946.html
 	curl https://raw.githubusercontent.com/mocaspike150/lab/master/docs/leaderboard/72363.html > data/html/72363.html
+	curl https://raw.githubusercontent.com/mocaspike150/lab/master/docs/leaderboard/241951.html > data/html/241951.html
 
 	git add data/html
 	git commit -m 'update latest html by Makefile' | true
@@ -133,7 +134,7 @@ convert: latest
 	git add data/json
 	git commit -m 'update json by Makefile' | true
 	git push -u https://ontouchstart:${GITHUB_TOKEN}@github.com/mocaspike150/leaderboard master
-total: convert
+total: 
 	node bin/total.js 
 	date > data/update_time.txt
 	node bin/current_miles.js > data/current_miles.txt
@@ -147,7 +148,6 @@ total: convert
 	git add data/club_total.csv
 	git add data/club_mpr.csv
 	git commit -m 'update total by Makefile' | true
-	git push -u https://ontouchstart:${GITHUB_TOKEN}@github.com/mocaspike150/leaderboard master
 
 top50:
 	node bin/currentweek_top50.js
