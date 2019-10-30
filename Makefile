@@ -143,7 +143,6 @@ total:  convert
 	git add data/leaderboard.json
 	git add data/update_time.txt
 	git add data/current_miles.txt
-	git add data/club_ranking.csv
 	git add data/club_total.csv
 	git add data/club_mpr.csv
 	git commit -m 'update total by Makefile' | true
