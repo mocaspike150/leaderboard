@@ -1,4 +1,4 @@
-all: git_config pull total top50
+all: git_config pull total 
 
 git_config:
 	git config --global user.email "ontouchstart@gmail.com"
@@ -147,8 +147,3 @@ total:  convert
 	git add data/club_mpr.csv
 	git commit -m 'update total by Makefile' | true
 
-top50:
-	node bin/currentweek_top50.js
-	git add data/leaderboard
-	git commit -m 'update leaderboard top50 by Makefile' | true
-	git push -u https://ontouchstart:${GITHUB_TOKEN}@github.com/mocaspike150/leaderboard master

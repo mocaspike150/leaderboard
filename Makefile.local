@@ -1,4 +1,4 @@
-all: total top50
+all: total 
 
 collect:
 	node bin/collect.js 72363
@@ -123,5 +123,3 @@ total:  convert
 	node bin/club_total.js > data/club_total.csv
 	node bin/club_mpr.js > data/club_mpr.csv
 
-top50:
-	node bin/currentweek_top50.js
